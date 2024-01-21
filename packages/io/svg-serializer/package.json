@@ -5,6 +5,7 @@
   "homepage": "https://openjscad.xyz/",
   "repository": "https://github.com/jscad/OpenJSCAD.org",
   "type": "module",
+  "types": "src/index.d.ts",
   "main": "src/index.js",
   "unpkg": "dist/jscad-svg-serializer.min.js",
   "module": "dist/jscad-svg-serializer.es.js",

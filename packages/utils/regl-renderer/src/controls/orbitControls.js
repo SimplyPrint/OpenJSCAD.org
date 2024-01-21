@@ -1,7 +1,7 @@
 import * as vec3 from 'gl-vec3'
 import * as mat4 from 'gl-mat4'
 
-import { unproject } from 'camera-unproject'
+import unproject from 'camera-unproject'
 
 import { computeBounds } from '../bound-utils/computeBounds.js'
 import { setProjection } from '../cameras/orthographicCamera.js'

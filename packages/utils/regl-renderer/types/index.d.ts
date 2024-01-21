@@ -1,5 +1,5 @@
 export const prepareRender: typeof import('./rendering/render')
-export namespace drawCommands {
+export namespace commands {
   const drawGrid: typeof import('./rendering/commands/drawGrid')
   const drawAxis: typeof import('./rendering/commands/drawAxis')
   const drawMesh: typeof import('./rendering/commands/drawMesh')
