@@ -1,9 +1,9 @@
-# @jscad/stl-serializer
+# @simplyprint/jscad-stl-serializer
 
 > Serializer of JSCAD geometries to STL mesh.
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fstl-serializer.svg)](https://www.npmjs.com/package/@jscad/stl-serializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/stl-serializer)](https://www.npmjs.com/package/@jscad/stl-serializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fstl-serializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-stl-serializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-stl-serializer)](https://www.npmjs.com/package/@simplyprint/jscad-stl-serializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -32,13 +32,13 @@ The array of data can either be used to create a Blob (`new Blob(blobable)`), or
 ## Installation
 
 ```
-npm install @jscad/stl-serializer
+npm install @simplyprint/jscad-stl-serializer
 ```
 
 ## Usage
 
 ```javascript
-const stlSerializer = require('@jscad/stl-serializer')
+const stlSerializer = require('@simplyprint/jscad-stl-serializer')
 
 const rawData = stlSerializer.serialize({binary: true}, geometry)
 

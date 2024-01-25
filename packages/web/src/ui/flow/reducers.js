@@ -1,8 +1,8 @@
 const path = require('path')
 
-const { applyParameterDefinitions } = require('@jscad/core').parameters
-const { makeFakeFs } = require('@jscad/core').loading
-const { getDesignEntryPoint, getDesignName } = require('@jscad/core').loading.requireDesignUtilsFs
+const { applyParameterDefinitions } = require('@simplyprint/jscad-core').parameters
+const { makeFakeFs } = require('@simplyprint/jscad-core').loading
+const { getDesignEntryPoint, getDesignName } = require('@simplyprint/jscad-core').loading.requireDesignUtilsFs
 
 const { keep } = require('../../utils/object')
 const packageMetadata = require('../../../package.json')

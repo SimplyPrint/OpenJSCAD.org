@@ -30,14 +30,14 @@ TBD
  *
  * @module io/amf-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/amf-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-amf-serializer')
  */
 
-import { stringify } from '@jscad/io-utils'
+import { stringify } from '@simplyprint/jscad-io-utils'
 
-import { generalize, geom3 } from '@jscad/modeling'
+import { generalize, geom3 } from '@simplyprint/jscad-modeling'
 
-import { flatten, toArray } from '@jscad/array-utils'
+import { flatten, toArray } from '@simplyprint/jscad-array-utils'
 
 const mimeType = 'application/amf+xml'
 

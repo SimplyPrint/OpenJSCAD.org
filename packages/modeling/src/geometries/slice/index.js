@@ -4,7 +4,7 @@
  * @module modeling/geometries/slice
  *
  * @example
- * import { geometries } from '@jscad/modeling'
+ * import { geometries } from '@simplyprint/jscad-modeling'
  * const slice = geometries.slice.create([[[0,0,0], [4,0,0], [4,3,12]]])
  */
 export { calculatePlane } from './calculatePlane.js'

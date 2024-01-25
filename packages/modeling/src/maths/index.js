@@ -4,7 +4,7 @@
  * @see Most computations are based upon the glMatrix library (glmatrix.net)
  * @module modeling/maths
  * @example
- * import { constants, line2, line3, mat4, plane, utils, vec2, vec3, vec4 } from '@jscad/modeling'
+ * import { constants, line2, line3, mat4, plane, utils, vec2, vec3, vec4 } from '@simplyprint/jscad-modeling'
  */
 export * from './constants.js'
 export * as line2 from './line2/index.js'

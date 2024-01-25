@@ -1,8 +1,8 @@
 const path = require('path')
 
-const { getFileExtensionFromString } = require('@jscad/core').utils
+const { getFileExtensionFromString } = require('@simplyprint/jscad-core').utils
 
-const { formats } = require('@jscad/io/formats')
+const { formats } = require('@simplyprint/jscad-io/formats')
 
 const callbackToObservable = require('../../most-utils/callbackToObservable')
 const makeLogger = require('../../utils/logger')

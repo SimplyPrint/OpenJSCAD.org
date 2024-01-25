@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/array-utils",
+  "name": "@simplyprint/jscad-array-utils",
   "version": "3.0.0-alpha.0",
   "description": "JSCAD Utility functions for arrays",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "types": "src/index.d.ts",
   "main": "src/index.js",
@@ -33,9 +37,6 @@
     "utilities",
     "array"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "@rollup/plugin-terser": "^0.4.3",
     "ava": "^4.3.3",

@@ -11,7 +11,7 @@
  *
  * @module modeling/geometries
  * @example
- * import { geometries } from '@jscad/modeling'
+ * import { geometries } from '@simplyprint/jscad-modeling'
  * const { geom2, geom3, path2, poly2, poly3 } = geometries
  */
 export * as geom2 from './geom2/index.js'

@@ -1,6 +1,6 @@
 /**
  * 3MF serializer for JSCAD project
- * @module @jscad/3mf-serializer
+ * @module @simplyprint/jscad-3mf-serializer
  * @version 3.0.0-alpha.0
  * @license MIT
  */

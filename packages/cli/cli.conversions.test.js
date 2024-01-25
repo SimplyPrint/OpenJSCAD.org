@@ -40,8 +40,8 @@ test.beforeEach((t) => {
 // the script should produce ALL geometry types
 const createJscad = (id) => {
   const jscadScript = `// test script ${id}
-import { flatten } from '@jscad/array-utils'
-import { arc, ellipse, ellipsoid } from '@jscad/modeling'
+import { flatten } from '@simplyprint/jscad-array-utils'
+import { arc, ellipse, ellipsoid } from '@simplyprint/jscad-modeling'
 
 export const getParameterDefinitions = () => {
   return flatten([

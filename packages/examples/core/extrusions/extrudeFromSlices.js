@@ -8,10 +8,10 @@
  * @licence MIT License
  */
 
-const { circle } = require('@jscad/modeling').primitives
-const { geom2 } = require('@jscad/modeling').geometries
-const { extrudeFromSlices, slice } = require('@jscad/modeling').extrusions
-const { mat4 } = require('@jscad/modeling').maths
+const { circle } = require('@simplyprint/jscad-modeling').primitives
+const { geom2 } = require('@simplyprint/jscad-modeling').geometries
+const { extrudeFromSlices, slice } = require('@simplyprint/jscad-modeling').extrusions
+const { mat4 } = require('@simplyprint/jscad-modeling').maths
 
 const main = () => {
   // demonstrates manipulating the original base through translation and scale to build a 3D geometry

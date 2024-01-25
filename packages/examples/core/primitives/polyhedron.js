@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const { polyhedron } = require('@jscad/modeling').primitives
+const { polyhedron } = require('@simplyprint/jscad-modeling').primitives
 
 const main = () => polyhedron({
   points: [

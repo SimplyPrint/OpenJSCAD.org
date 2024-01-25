@@ -1,4 +1,4 @@
-import { geom3, poly3 } from '@jscad/modeling'
+import { geom3, poly3 } from '@simplyprint/jscad-modeling'
 
 // see http://en.wikipedia.org/wiki/STL_%28file_format%29#Binary_STL
 

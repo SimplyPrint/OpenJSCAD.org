@@ -1,9 +1,9 @@
-# @jscad/svg-serializer
+# @simplyprint/jscad-svg-serializer
 
 > Serializer of JSCAD geometries to SVG commands
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fsvg-serializer.svg)](https://www.npmjs.com/package/@jscad/svg-serializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/svg-serializer)](https://www.npmjs.com/package/@jscad/svg-serializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fsvg-serializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-svg-serializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-svg-serializer)](https://www.npmjs.com/package/@simplyprint/jscad-svg-serializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -38,13 +38,13 @@ In addition, geometries can have special attributes (id, class) which will be pa
 ## Installation
 
 ```
-npm install @jscad/svg-serializer
+npm install @simplyprint/jscad-svg-serializer
 ```
 
 ## Usage
 
 ```javascript
-const svgSerializer = require('@jscad/svg-serializer')
+const svgSerializer = require('@simplyprint/jscad-svg-serializer')
 
 const rawData = svgSerializer.serialize({unit: 'cm'}, object)
 

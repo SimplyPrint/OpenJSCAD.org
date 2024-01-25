@@ -3,47 +3,47 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.3.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.3.4...@jscad/amf-deserializer@2.3.5) (2023-06-27)
+## [2.3.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.3.4...@simplyprint/jscad-amf-deserializer@2.3.5) (2023-06-27)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
-
-
-
-## [2.3.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.3.3...@jscad/amf-deserializer@2.3.4) (2023-04-30)
-
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.3.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.3.2...@jscad/amf-deserializer@2.3.3) (2022-11-26)
+## [2.3.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.3.3...@simplyprint/jscad-amf-deserializer@2.3.4) (2023-04-30)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
-
-
-
-## [2.3.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.3.1...@jscad/amf-deserializer@2.3.2) (2022-08-21)
-
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.3.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.3.0...@jscad/amf-deserializer@2.3.1) (2022-07-17)
+## [2.3.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.3.2...@simplyprint/jscad-amf-deserializer@2.3.3) (2022-11-26)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
-# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.12...@jscad/amf-deserializer@2.3.0) (2022-06-12)
+
+
+## [2.3.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.3.1...@simplyprint/jscad-amf-deserializer@2.3.2) (2022-08-21)
+
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
+
+
+
+
+
+## [2.3.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.3.0...@simplyprint/jscad-amf-deserializer@2.3.1) (2022-07-17)
+
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
+
+
+
+
+
+# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.12...@simplyprint/jscad-amf-deserializer@2.3.0) (2022-06-12)
 
 
 ### Features
@@ -54,103 +54,103 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.2.12](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.11...@jscad/amf-deserializer@2.2.12) (2022-05-15)
+## [2.2.12](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.11...@simplyprint/jscad-amf-deserializer@2.2.12) (2022-05-15)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.11](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.10...@jscad/amf-deserializer@2.2.11) (2022-04-24)
+## [2.2.11](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.10...@simplyprint/jscad-amf-deserializer@2.2.11) (2022-04-24)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.10](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.9...@jscad/amf-deserializer@2.2.10) (2022-04-03)
+## [2.2.10](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.9...@simplyprint/jscad-amf-deserializer@2.2.10) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.9](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.8...@jscad/amf-deserializer@2.2.9) (2022-04-03)
+## [2.2.9](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.8...@simplyprint/jscad-amf-deserializer@2.2.9) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.8](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.7...@jscad/amf-deserializer@2.2.8) (2022-03-13)
+## [2.2.8](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.7...@simplyprint/jscad-amf-deserializer@2.2.8) (2022-03-13)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.6...@jscad/amf-deserializer@2.2.7) (2022-03-06)
+## [2.2.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.6...@simplyprint/jscad-amf-deserializer@2.2.7) (2022-03-06)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.5...@jscad/amf-deserializer@2.2.6) (2022-02-19)
+## [2.2.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.5...@simplyprint/jscad-amf-deserializer@2.2.6) (2022-02-19)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.4...@jscad/amf-deserializer@2.2.5) (2021-12-26)
+## [2.2.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.4...@simplyprint/jscad-amf-deserializer@2.2.5) (2021-12-26)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.3...@jscad/amf-deserializer@2.2.4) (2021-12-11)
+## [2.2.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.3...@simplyprint/jscad-amf-deserializer@2.2.4) (2021-12-11)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.2...@jscad/amf-deserializer@2.2.3) (2021-11-07)
+## [2.2.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.2...@simplyprint/jscad-amf-deserializer@2.2.3) (2021-11-07)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.1...@jscad/amf-deserializer@2.2.2) (2021-10-17)
+## [2.2.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.1...@simplyprint/jscad-amf-deserializer@2.2.2) (2021-10-17)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-## [2.2.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.2.0...@jscad/amf-deserializer@2.2.1) (2021-10-04)
+## [2.2.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.2.0...@simplyprint/jscad-amf-deserializer@2.2.1) (2021-10-04)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.1.3...@jscad/amf-deserializer@2.2.0) (2021-09-27)
+# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.1.3...@simplyprint/jscad-amf-deserializer@2.2.0) (2021-09-27)
 
 
 ### Features
@@ -161,7 +161,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.1.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.1.2...@jscad/amf-deserializer@2.1.3) (2021-09-09)
+## [2.1.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.1.2...@simplyprint/jscad-amf-deserializer@2.1.3) (2021-09-09)
 
 
 ### Bug Fixes
@@ -172,15 +172,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.1.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.1.1...@jscad/amf-deserializer@2.1.2) (2021-06-20)
+## [2.1.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.1.1...@simplyprint/jscad-amf-deserializer@2.1.2) (2021-06-20)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
-## [2.1.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.1.0...@jscad/amf-deserializer@2.1.1) (2021-06-11)
+
+
+## [2.1.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.1.0...@simplyprint/jscad-amf-deserializer@2.1.1) (2021-06-11)
 
 
 ### Bug Fixes
@@ -191,7 +191,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.2...@jscad/amf-deserializer@2.1.0) (2021-06-01)
+# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.2...@simplyprint/jscad-amf-deserializer@2.1.0) (2021-06-01)
 
 
 ### Features
@@ -202,7 +202,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.0...@jscad/amf-deserializer@2.0.2) (2021-04-20)
+## [2.0.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.0...@simplyprint/jscad-amf-deserializer@2.0.2) (2021-04-20)
 
 
 ### Bug Fixes
@@ -214,7 +214,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.0.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.0...@jscad/amf-deserializer@2.0.1) (2021-04-15)
+## [2.0.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.0...@simplyprint/jscad-amf-deserializer@2.0.1) (2021-04-15)
 
 
 ### Bug Fixes
@@ -226,47 +226,47 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.11...@jscad/amf-deserializer@2.0.0) (2021-04-12)
+# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.11...@simplyprint/jscad-amf-deserializer@2.0.0) (2021-04-12)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
-
-
-
-# [2.0.0-alpha.11](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.10...@jscad/amf-deserializer@2.0.0-alpha.11) (2021-03-07)
-
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-# [2.0.0-alpha.10](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.9...@jscad/amf-deserializer@2.0.0-alpha.10) (2021-02-07)
+# [2.0.0-alpha.11](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.10...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.11) (2021-03-07)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
-
-
-
-# [2.0.0-alpha.9](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.8...@jscad/amf-deserializer@2.0.0-alpha.9) (2021-01-02)
-
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-# [2.0.0-alpha.8](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.7...@jscad/amf-deserializer@2.0.0-alpha.8) (2020-12-04)
+# [2.0.0-alpha.10](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.9...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.10) (2021-02-07)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
-# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.6...@jscad/amf-deserializer@2.0.0-alpha.7) (2020-11-07)
+
+
+# [2.0.0-alpha.9](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.8...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.9) (2021-01-02)
+
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
+
+
+
+
+
+# [2.0.0-alpha.8](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.7...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.8) (2020-12-04)
+
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
+
+
+
+
+
+# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.6...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.7) (2020-11-07)
 
 
 ### Bug Fixes
@@ -277,7 +277,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.5...@jscad/amf-deserializer@2.0.0-alpha.6) (2020-10-11)
+# [2.0.0-alpha.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.5...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.6) (2020-10-11)
 
 
 ### Bug Fixes
@@ -288,41 +288,41 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.4...@jscad/amf-deserializer@2.0.0-alpha.5) (2020-09-29)
+# [2.0.0-alpha.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.4...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.5) (2020-09-29)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
-
-
-
-# [2.0.0-alpha.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.3...@jscad/amf-deserializer@2.0.0-alpha.4) (2020-09-28)
-
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-# [2.0.0-alpha.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.2...@jscad/amf-deserializer@2.0.0-alpha.3) (2020-09-19)
+# [2.0.0-alpha.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.3...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.4) (2020-09-28)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
-
-
-
-
-
-# [2.0.0-alpha.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.1...@jscad/amf-deserializer@2.0.0-alpha.2) (2020-09-08)
-
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
 
 
-# [2.0.0-alpha.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/amf-deserializer@2.0.0-alpha.0...@jscad/amf-deserializer@2.0.0-alpha.1) (2020-08-19)
+# [2.0.0-alpha.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.2...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.3) (2020-09-19)
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
+
+
+
+
+
+# [2.0.0-alpha.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.1...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.2) (2020-09-08)
+
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
+
+
+
+
+
+# [2.0.0-alpha.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-amf-deserializer@2.0.0-alpha.0...@simplyprint/jscad-amf-deserializer@2.0.0-alpha.1) (2020-08-19)
+
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 
 
@@ -346,31 +346,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **io:** change api to deserialize(options, source)
 
 <a name="0.2.3"></a>
-## [0.2.3](https://github.com/jscad/io/compare/@jscad/amf-deserializer@0.2.2...@jscad/amf-deserializer@0.2.3) (2018-11-25)
+## [0.2.3](https://github.com/jscad/io/compare/@simplyprint/jscad-amf-deserializer@0.2.2...@simplyprint/jscad-amf-deserializer@0.2.3) (2018-11-25)
 
 
 
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 <a name="0.2.2"></a>
-## [0.2.2](https://github.com/jscad/io/compare/@jscad/amf-deserializer@0.2.1...@jscad/amf-deserializer@0.2.2) (2018-11-22)
+## [0.2.2](https://github.com/jscad/io/compare/@simplyprint/jscad-amf-deserializer@0.2.1...@simplyprint/jscad-amf-deserializer@0.2.2) (2018-11-22)
 
 
 
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 <a name="0.2.1"></a>
-## [0.2.1](https://github.com/jscad/io/compare/@jscad/amf-deserializer@0.2.0...@jscad/amf-deserializer@0.2.1) (2017-12-14)
+## [0.2.1](https://github.com/jscad/io/compare/@simplyprint/jscad-amf-deserializer@0.2.0...@simplyprint/jscad-amf-deserializer@0.2.1) (2017-12-14)
 
 
 
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 <a name="0.2.0"></a>
-# [0.2.0](https://github.com/jscad/io/compare/@jscad/amf-deserializer@0.1.0...@jscad/amf-deserializer@0.2.0) (2017-11-29)
+# [0.2.0](https://github.com/jscad/io/compare/@simplyprint/jscad-amf-deserializer@0.1.0...@simplyprint/jscad-amf-deserializer@0.2.0) (2017-11-29)
 
 
 ### Features
@@ -381,7 +381,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.1.0"></a>
-# [0.1.0](https://github.com/jscad/io/compare/@jscad/amf-deserializer@0.0.4...@jscad/amf-deserializer@0.1.0) (2017-11-14)
+# [0.1.0](https://github.com/jscad/io/compare/@simplyprint/jscad-amf-deserializer@0.0.4...@simplyprint/jscad-amf-deserializer@0.1.0) (2017-11-14)
 
 
 ### Features
@@ -392,20 +392,20 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="0.0.4"></a>
-## [0.0.4](https://github.com/jscad/io/compare/@jscad/amf-deserializer@0.0.3...@jscad/amf-deserializer@0.0.4) (2017-11-04)
+## [0.0.4](https://github.com/jscad/io/compare/@simplyprint/jscad-amf-deserializer@0.0.3...@simplyprint/jscad-amf-deserializer@0.0.4) (2017-11-04)
 
 
 
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 <a name="0.0.3"></a>
-## [0.0.3](https://github.com/jscad/io/compare/@jscad/amf-deserializer@0.0.2...@jscad/amf-deserializer@0.0.3) (2017-10-10)
+## [0.0.3](https://github.com/jscad/io/compare/@simplyprint/jscad-amf-deserializer@0.0.2...@simplyprint/jscad-amf-deserializer@0.0.3) (2017-10-10)
 
 
 
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer
 
 <a name="0.0.2"></a>
 ## 0.0.2 (2017-10-10)
@@ -413,4 +413,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package @jscad/amf-deserializer
+**Note:** Version bump only for package @simplyprint/jscad-amf-deserializer

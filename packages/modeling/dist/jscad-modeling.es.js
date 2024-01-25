@@ -1,6 +1,6 @@
 /**
  * Constructive Solid Geometry (CSG) Library for JSCAD
- * @module @jscad/modeling
+ * @module @simplyprint/jscad-modeling
  * @version 3.0.0-alpha.0
  * @license MIT
  */

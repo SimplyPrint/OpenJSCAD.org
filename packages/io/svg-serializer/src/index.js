@@ -10,12 +10,12 @@
  *
  * @module io/svg-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/svg-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-svg-serializer')
  */
 
-import { geom2, flatten, measureBoundingBox, path2, vec3 } from '@jscad/modeling'
+import { geom2, flatten, measureBoundingBox, path2, vec3 } from '@simplyprint/jscad-modeling'
 
-import { stringify } from '@jscad/io-utils'
+import { stringify } from '@simplyprint/jscad-io-utils'
 
 const version = '[VI]{version}[/VI]' // version is injected by rollup
 

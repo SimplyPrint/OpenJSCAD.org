@@ -2,8 +2,8 @@
 
 > Tree (& caching & more ) experiments to speed up significantly design computation time for JSCAD
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fvtree.svg)](https://www.npmjs.com/package/@jscad/vtree)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/vtree)](https://www.npmjs.com/package/@jscad/vtree)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fvtree.svg)](https://www.npmjs.com/package/@simplyprint/jscad-vtree)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-vtree)](https://www.npmjs.com/package/@simplyprint/jscad-vtree)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)

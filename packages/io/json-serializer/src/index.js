@@ -2,10 +2,10 @@
  * Serializer of JSCAD geometries to JSON strings.
  * @module io/json-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/json-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-json-serializer')
  */
 
-import { flatten } from '@jscad/array-utils'
+import { flatten } from '@simplyprint/jscad-array-utils'
 
 const mimeType = 'application/json'
 

@@ -3,11 +3,11 @@ import path from 'path'
 
 import test from 'ava'
 
-import { geom2, path2 } from '@jscad/modeling'
+import { geom2, path2 } from '@simplyprint/jscad-modeling'
 
 import { deserialize } from '../src/index.js'
 
-const samplesPath = '../../../node_modules/@jscad/sample-files'
+const samplesPath = '../../../node_modules/@simplyprint/jscad-sample-files'
 
 //
 // Test suite for DXF deserialization (import)

@@ -1,6 +1,6 @@
 //
-const makeBuildCachedGeometryFromTree = require('@jscad/vtree').buildCachedGeometry
-const { CAG, CSG } = require('@jscad/csg')
+const makeBuildCachedGeometryFromTree = require('@simplyprint/jscad-vtree').buildCachedGeometry
+const { CAG, CSG } = require('@simplyprint/jscad-csg')
 
 const defaults = { vtreeMode: true }
 
@@ -11,10 +11,10 @@ onmessage = function (event) {
     if (data.cmd === 'render') {
       const { source, parameters, mainPath, options } = data
       const { vtreeMode, lookup, lookupCounts } = Object.assign({}, defaults, options)
-      const apiMainPath = vtreeMode ? './vtreeApi' : '@jscad/csg/api'
+      const apiMainPath = vtreeMode ? './vtreeApi' : '@simplyprint/jscad-csg/api'
 
-      const { isCAG, isCSG } = require('@jscad/csg')
-      const { toArray } = require('@jscad/array-utils')
+      const { isCAG, isCSG } = require('@simplyprint/jscad-csg')
+      const { toArray } = require('@simplyprint/jscad-array-utils')
       const { loadScript } = require('../code-loading/scriptLoading')
       const requireUncached = require('../code-loading/requireUncached')
       // TODO: only uncache when needed

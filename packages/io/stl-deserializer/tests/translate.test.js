@@ -5,7 +5,7 @@ import test from 'ava'
 
 import { deserialize } from '../src/index.js'
 
-const samplesPath = '../../../node_modules/@jscad/sample-files'
+const samplesPath = '../../../node_modules/@simplyprint/jscad-sample-files'
 
 const countOf = (search, string) => {
   let count = 0
@@ -21,7 +21,7 @@ test('translate simple ascii stl to jscad code', (t) => {
   const inputPath = path.resolve(samplesPath, 'stl/testcube_ascii.stl')
   const inputFile = fs.readFileSync(inputPath, 'utf8')
 
-  const expected = `import * from '@jscad/modeling'
+  const expected = `import * from '@simplyprint/jscad-modeling'
 
 //
 // solid 1 : 36 points, 12 faces, 0 colors
@@ -96,7 +96,7 @@ test('translate simple binary stl to jscad script', (t) => {
   const inputPath = path.resolve(samplesPath, 'stl/testcube_10mm.stl')
   const inputFile = fs.readFileSync(inputPath)
 
-  const expected = `import * from '@jscad/modeling'
+  const expected = `import * from '@simplyprint/jscad-modeling'
 
 //
 // solid 1 : 36 points, 12 faces, 0 colors

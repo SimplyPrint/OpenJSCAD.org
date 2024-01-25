@@ -1,4 +1,4 @@
-import { polyhedron } from '@jscad/modeling'
+import { polyhedron } from '@simplyprint/jscad-modeling'
 
 import { x3dTypes } from './objects.js'
 import { findNode, createColors } from './translateHelpers.js'

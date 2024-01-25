@@ -1,9 +1,9 @@
-## @jscad/amf-serializer
+## @simplyprint/jscad-amf-serializer
 
 > Serializer of JSCAD geometries to AMF shapes
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Famf-serializer.svg)](https://www.npmjs.com/package/@jscad/amf-serializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/amf-serializer)](https://www.npmjs.com/package/@jscad/amf-serializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Famf-serializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-amf-serializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-amf-serializer)](https://www.npmjs.com/package/@simplyprint/jscad-amf-serializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -37,13 +37,13 @@ Colors are added to volumes when found on the 3D geometry, and added to triangle
 ## Installation
 
 ```
-npm install @jscad/amf-serializer
+npm install @simplyprint/jscad-amf-serializer
 ```
 
 ## Usage
 
 ```javascript
-const amfSerializer = require('@jscad/amf-serializer')
+const amfSerializer = require('@simplyprint/jscad-amf-serializer')
 
 const rawData = amfSerializer.serialize({unit: inch}, geometry)
 

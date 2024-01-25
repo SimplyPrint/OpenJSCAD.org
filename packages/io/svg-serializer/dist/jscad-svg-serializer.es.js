@@ -1,12 +1,12 @@
 /**
  * SVG Serializer for JSCAD
- * @module @jscad/svg-serializer
+ * @module @simplyprint/jscad-svg-serializer
  * @version 3.0.0-alpha.0
  * @license MIT
  */
 /**
  * Constructive Solid Geometry (CSG) Library for JSCAD
- * @module @jscad/modeling
+ * @module @simplyprint/jscad-modeling
  * @version 3.0.0-alpha.0
  * @license MIT
  */

@@ -1,4 +1,4 @@
-const measureBounds = require('@jscad/modeling').measurements.measureBounds
+const measureBounds = require('@simplyprint/jscad-modeling').measurements.measureBounds
 
 const cacheWithInvalidation = require('../../../cacheWithInvalidation')
 const cachedGenerator = require('../../../generators/geometry-generator-cached-csg')

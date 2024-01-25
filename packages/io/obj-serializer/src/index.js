@@ -6,12 +6,12 @@
  *
  * @module io/obj-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/obj-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-obj-serializer')
  */
 
-import { cssColors, generalize, geom3 } from '@jscad/modeling'
+import { cssColors, generalize, geom3 } from '@simplyprint/jscad-modeling'
 
-import { flatten, toArray } from '@jscad/array-utils'
+import { flatten, toArray } from '@simplyprint/jscad-array-utils'
 
 const mimeType = 'model/obj'
 

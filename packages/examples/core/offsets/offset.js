@@ -8,10 +8,10 @@
  * @licence MIT License
  */
 
-const { cuboid, arc, rectangle } = require('@jscad/modeling').primitives
-const { offset } = require('@jscad/modeling').offsets
-const { colorize, colorNameToRgb } = require('@jscad/modeling').colors
-const { translate } = require('@jscad/modeling').transforms
+const { cuboid, arc, rectangle } = require('@simplyprint/jscad-modeling').primitives
+const { offset } = require('@simplyprint/jscad-modeling').offsets
+const { colorize, colorNameToRgb } = require('@simplyprint/jscad-modeling').colors
+const { translate } = require('@simplyprint/jscad-modeling').transforms
 
 const main = () => {
   // 2d paths can be expanded

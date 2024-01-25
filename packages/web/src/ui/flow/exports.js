@@ -1,6 +1,6 @@
 const most = require('most')
 
-const { solidsAsBlob } = require('@jscad/io')
+const { solidsAsBlob } = require('@simplyprint/jscad-io')
 
 const { withLatestFrom } = require('../../most-utils')
 

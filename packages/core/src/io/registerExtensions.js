@@ -1,6 +1,6 @@
 import stripBom from 'strip-bom'
 
-import { deserializers } from '@jscad/io'
+import { deserializers } from '@simplyprint/jscad-io'
 
 // FIXME: the unregistering does not work, look into it
 const registerJscadExtension = (fs, _require) => {

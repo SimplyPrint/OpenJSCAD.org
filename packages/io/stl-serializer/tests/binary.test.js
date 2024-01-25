@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { cube } from '@jscad/modeling'
+import { cube } from '@simplyprint/jscad-modeling'
 
 import { serialize } from '../src/index.js'
 

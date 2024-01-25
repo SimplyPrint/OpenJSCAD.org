@@ -1,6 +1,6 @@
 const most = require('most')
 
-const { head } = require('@jscad/array-utils')
+const { head } = require('@simplyprint/jscad-array-utils')
 
 const { holdUntil, withLatestFrom } = require('../../most-utils')
 

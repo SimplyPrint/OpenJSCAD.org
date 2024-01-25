@@ -7,9 +7,9 @@
 // tags        : project, module, code, files, subfolder
 */
 
-const { sphere } = require('@jscad/modeling').primitives
-const { colorize } = require('@jscad/modeling').colors
-const { translateZ } = require('@jscad/modeling').transforms
+const { sphere } = require('@simplyprint/jscad-modeling').primitives
+const { colorize } = require('@simplyprint/jscad-modeling').colors
+const { translateZ } = require('@simplyprint/jscad-modeling').transforms
 
 const sphereShape = (radius) => colorize([1, 0, 0, 1], translateZ(radius, sphere({ radius })))
 

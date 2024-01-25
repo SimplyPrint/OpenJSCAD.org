@@ -1,9 +1,9 @@
-## @jscad/x3d-deserializer
+## @simplyprint/jscad-x3d-deserializer
 
 > Deserializer of X3D data to JSCAD geometries
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fx3d-deserializer.svg)](https://www.npmjs.com/package/@jscad/x3d-deserializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/x3d-deserializer)](https://www.npmjs.com/package/@jscad/x3d-deserializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fx3d-deserializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-x3d-deserializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-x3d-deserializer)](https://www.npmjs.com/package/@simplyprint/jscad-x3d-deserializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -78,13 +78,13 @@ Finally, there are many applications that can save to X3D formats. All testing i
 ## Installation
 
 ```
-npm install @jscad/x3d-deserializer
+npm install @simplyprint/jscad-x3d-deserializer
 ```
 
 ## Usage
 
 ```javascript
-const x3dDeSerializer = require('@jscad/x3d-deserializer')
+const x3dDeSerializer = require('@simplyprint/jscad-x3d-deserializer')
 
 const rawData = fs.readFileSync('PATH/TO/file.x3d')
 const jscadScript = x3dDeSerializer.deserialize({filename: 'file.x3d', output: 'script'}, rawData)

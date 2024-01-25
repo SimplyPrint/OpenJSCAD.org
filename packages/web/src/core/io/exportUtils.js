@@ -1,6 +1,6 @@
 const path = require('path')
-const { head } = require('@jscad/array-utils')
-const { formats, supportedFormatsForObjects } = require('@jscad/io/formats')
+const { head } = require('@simplyprint/jscad-array-utils')
+const { formats, supportedFormatsForObjects } = require('@simplyprint/jscad-io/formats')
 
 const availableExportFormatsFromSolids = (solids) => {
   const formatsToIgnore = ['jscad', 'js']

@@ -1,9 +1,9 @@
-# @jscad/web: JSCAD Web UI
+# @simplyprint/jscad-web: JSCAD Web UI
 
 This is the Web based UI for JSCAD, either to host yourself, or use directly at https://openjscad.xyz/.
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fweb.svg)](https://www.npmjs.com/package/@jscad/web)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/web)](https://www.npmjs.com/package/@jscad/web)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fweb.svg)](https://www.npmjs.com/package/@simplyprint/jscad-web)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-web)](https://www.npmjs.com/package/@simplyprint/jscad-web)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)

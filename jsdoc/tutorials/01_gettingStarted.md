@@ -23,7 +23,7 @@ it with the "Load a JSCAD Project" file dialog.
 The simplest file that will render a cube in JSCAD looks like this:
 ```javascript
 // the import statement allows your code to use JSCAD functions.
-import { primitives } from '@jscad/modeling'
+import { primitives } from '@simplyprint/jscad-modeling'
 
 // the export statement defines the entry point of the design.
 export const main = () => {
@@ -33,7 +33,7 @@ export const main = () => {
 JSCAD functions must be imported, but there are several different syntaxes for using the functions:
 ```javascript
 // import one or more functional areas from JSCAD:
-import { primitives, booleans } from '@jscad/modeling'
+import { primitives, booleans } from '@simplyprint/jscad-modeling'
 
 // use functions directly
 let aCube = primitives.cube()
@@ -49,7 +49,7 @@ let aSphere = sphere()
 ## Adding Methods
 Clean, readable code is one of the most important aspects of a useful design. In that respect, it can often be useful to break your code into simple function that do part of the work for your design:
 ```javascript
-import { primitives } from '@jscad/modeling'
+import { primitives } from '@simplyprint/jscad-modeling'
 const { cylinder } = primitives
 
 const hex = (radius, height) => {
@@ -63,7 +63,7 @@ export const main = () => {
 ## Re-usable Designs
 A valuable practise when creating models is to store all but the most trivial values as parameters in the code, rather than using the numerical values directly.  This can be done by storing them in constants in your file...
 ```javascript
-import { primitives } from '@jscad/modeling'
+import { primitives } from '@simplyprint/jscad-modeling'
 const { cylinder } = primitives
 
 const options = {
@@ -78,7 +78,7 @@ export const main = () => {
  
 ... or, even better, to include runtime parameters in your design.  This is done using the getParameterDefinitions function:
 ```javascript
-import { primitives } from '@jscad/modeling'
+import { primitives } from '@simplyprint/jscad-modeling'
 const { cylinder } = primitives
 
 // Declare a function named "getParameterDefinitions". It will return an array of parameter definitions.

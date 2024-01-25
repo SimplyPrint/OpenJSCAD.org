@@ -1,6 +1,6 @@
-const { cube, sphere } = require('@jscad/csg/api').primitives3d
-const { difference } = require('@jscad/csg/api').booleanOps
-const { translate } = require('@jscad/csg/api').transformations
+const { cube, sphere } = require('@simplyprint/jscad-csg/api').primitives3d
+const { difference } = require('@simplyprint/jscad-csg/api').booleanOps
+const { translate } = require('@simplyprint/jscad-csg/api').transformations
 
 const aCoolPart = () => [
   cube({ name: 'c1' }),

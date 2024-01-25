@@ -1,7 +1,7 @@
 import path from 'path'
 import { createRequire } from 'module'
 
-import { toArray } from '@jscad/array-utils'
+import { toArray } from '@simplyprint/jscad-array-utils'
 
 import { requireDesignFromModule } from '../code-loading/requireDesignFromModule.js'
 import { getParameterDefinitionsAndValues } from '../parameters/index.js'
@@ -9,7 +9,7 @@ import { makeWebRequire } from '../code-loading/webRequire.js'
 
 export const rebuildGeometryCli = async (data) => {
   const defaults = {
-    apiMainPath: '@jscad/modeling'
+    apiMainPath: '@simplyprint/jscad-modeling'
   }
   let { apiMainPath, mainPath, parameterValues, useFakeFs } = Object.assign({}, defaults, data)
   // we need to update the source for our module

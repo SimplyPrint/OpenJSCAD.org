@@ -69,7 +69,7 @@ const codify = (amf, data) => {
 // Materials: ${materials.length}
 // Scale    : ${amf.scale} from Units (${amf.unit})
 
-import * from '@jscad/modeling'
+import * from '@simplyprint/jscad-modeling'
 
 export const main = () => {
   let objects = []

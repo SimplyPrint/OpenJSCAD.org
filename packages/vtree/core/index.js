@@ -157,7 +157,7 @@ const apiClone = {
     rectangular_extrude
   },
   text: {
-    vector_text: require('@jscad/csg/api').text.vector_text
+    vector_text: require('@simplyprint/jscad-csg/api').text.vector_text
   },
 
   measurements: {
@@ -166,12 +166,12 @@ const apiClone = {
     measureBounds
   },
 
-  colors: Object.assign({}, require('@jscad/csg/api').colors, { colors }),
-  csg: require('@jscad/csg/api').csg,
+  colors: Object.assign({}, require('@simplyprint/jscad-csg/api').colors, { colors }),
+  csg: require('@simplyprint/jscad-csg/api').csg,
   // these are obsolete, but keeping the same API for now ...
-  maths: require('@jscad/csg/api').maths,
-  OpenJsCad: require('@jscad/csg/api').OpenJsCad,
-  debug: require('@jscad/csg/api').debug
+  maths: require('@simplyprint/jscad-csg/api').maths,
+  OpenJsCad: require('@simplyprint/jscad-csg/api').OpenJsCad,
+  debug: require('@simplyprint/jscad-csg/api').debug
 
 }
 

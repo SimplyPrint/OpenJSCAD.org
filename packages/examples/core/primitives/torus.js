@@ -8,9 +8,9 @@
  * @licence MIT License
  */
 
-const { torus } = require('@jscad/modeling').primitives
-const { translate } = require('@jscad/modeling').transforms
-const { degToRad } = require('@jscad/modeling').utils
+const { torus } = require('@simplyprint/jscad-modeling').primitives
+const { translate } = require('@simplyprint/jscad-modeling').transforms
+const { degToRad } = require('@simplyprint/jscad-modeling').utils
 
 const main = () => [
   // Top Row - Simple Torii

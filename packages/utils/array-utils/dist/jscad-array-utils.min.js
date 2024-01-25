@@ -1,6 +1,6 @@
 /**
  * JSCAD Utility functions for arrays
- * @module @jscad/array-utils
+ * @module @simplyprint/jscad-array-utils
  * @version 3.0.0-alpha.0
  * @license MIT
  */

@@ -1,4 +1,4 @@
-import { colorNameToRgb, polyhedron } from '@jscad/modeling'
+import { colorNameToRgb, polyhedron } from '@simplyprint/jscad-modeling'
 
 const version = '[VI]{version}[/VI]' // version is injected by rollup
 
@@ -6,7 +6,7 @@ const version = '[VI]{version}[/VI]' // version is injected by rollup
  * Deserializer of OBJ data to JSCAD geometries.
  * @module io/obj-deserializer
  * @example
- * const { deserializer, extension } = require('@jscad/obj-deserializer')
+ * const { deserializer, extension } = require('@simplyprint/jscad-obj-deserializer')
  */
 
 /**
@@ -193,7 +193,7 @@ const stringify = (positions, groups, options) => {
     : ''
 
   // create the main function, with a list of points and translated groups
-  code += `import * from '@jscad/modeling'
+  code += `import * from '@simplyprint/jscad-modeling'
 
 // groups: ${groups.length}
 // points: ${positions.length}

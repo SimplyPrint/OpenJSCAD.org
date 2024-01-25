@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const jscad = require('@jscad/modeling')
+const jscad = require('@simplyprint/jscad-modeling')
 const { line, polygon, star } = jscad.primitives
 const { extrudeRectangular, extrudeLinear, extrudeRotate } = jscad.extrusions
 const { translate } = jscad.transforms

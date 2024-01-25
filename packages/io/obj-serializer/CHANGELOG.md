@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [3.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.12...@jscad/obj-serializer@3.0.0-alpha.0) (2023-10-09)
+# [3.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.12...@simplyprint/jscad-obj-serializer@3.0.0-alpha.0) (2023-10-09)
 
 ### Bug Fixes
 
@@ -14,65 +14,65 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** reworked exports to expose a flattened API ([8235238](https://github.com/jscad/OpenJSCAD.org/commit/8235238ad63d063f1e501478cae1208deb130a9c))
 * **regl-renderer:** added rollup configuration to create ES6 bundle, adjusted imports and exports ([#1259](https://github.com/jscad/OpenJSCAD.org/issues/1259)) ([47a66bc](https://github.com/jscad/OpenJSCAD.org/commit/47a66bc07a137a748ce8571ea5d043ebaab9418d))
 
-## [2.1.15](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.14...@jscad/obj-serializer@2.1.15) (2023-06-27)
+## [2.1.15](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.14...@simplyprint/jscad-obj-serializer@2.1.15) (2023-06-27)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.14](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.13...@jscad/obj-serializer@2.1.14) (2023-04-30)
+## [2.1.14](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.13...@simplyprint/jscad-obj-serializer@2.1.14) (2023-04-30)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.13](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.12...@jscad/obj-serializer@2.1.13) (2022-11-26)
+## [2.1.13](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.12...@simplyprint/jscad-obj-serializer@2.1.13) (2022-11-26)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.12](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.11...@jscad/obj-serializer@2.1.12) (2022-08-21)
+## [2.1.12](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.11...@simplyprint/jscad-obj-serializer@2.1.12) (2022-08-21)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.11](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.10...@jscad/obj-serializer@2.1.11) (2022-07-17)
+## [2.1.11](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.10...@simplyprint/jscad-obj-serializer@2.1.11) (2022-07-17)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.10](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.9...@jscad/obj-serializer@2.1.10) (2022-06-12)
+## [2.1.10](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.9...@simplyprint/jscad-obj-serializer@2.1.10) (2022-06-12)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.9](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.8...@jscad/obj-serializer@2.1.9) (2022-05-15)
+## [2.1.9](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.8...@simplyprint/jscad-obj-serializer@2.1.9) (2022-05-15)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.8](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.7...@jscad/obj-serializer@2.1.8) (2022-04-24)
+## [2.1.8](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.7...@simplyprint/jscad-obj-serializer@2.1.8) (2022-04-24)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.6...@jscad/obj-serializer@2.1.7) (2022-04-03)
+## [2.1.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.6...@simplyprint/jscad-obj-serializer@2.1.7) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.5...@jscad/obj-serializer@2.1.6) (2022-04-03)
+## [2.1.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.5...@simplyprint/jscad-obj-serializer@2.1.6) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.4...@jscad/obj-serializer@2.1.5) (2022-03-13)
+## [2.1.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.4...@simplyprint/jscad-obj-serializer@2.1.5) (2022-03-13)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.3...@jscad/obj-serializer@2.1.4) (2022-03-06)
+## [2.1.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.3...@simplyprint/jscad-obj-serializer@2.1.4) (2022-03-06)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.2...@jscad/obj-serializer@2.1.3) (2022-02-19)
+## [2.1.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.2...@simplyprint/jscad-obj-serializer@2.1.3) (2022-02-19)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.1...@jscad/obj-serializer@2.1.2) (2021-12-26)
+## [2.1.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.1...@simplyprint/jscad-obj-serializer@2.1.2) (2021-12-26)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
-## [2.1.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/obj-serializer@2.1.0...@jscad/obj-serializer@2.1.1) (2021-12-11)
+## [2.1.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-obj-serializer@2.1.0...@simplyprint/jscad-obj-serializer@2.1.1) (2021-12-11)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer
 
 # 2.1.0 (2021-11-07)
 
@@ -90,4 +90,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **obj-serializer:** create OBJ serializer (#515)
 
-**Note:** Version bump only for package @jscad/obj-serializer
+**Note:** Version bump only for package @simplyprint/jscad-obj-serializer

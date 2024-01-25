@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { geom2, rectangle } from '@jscad/modeling'
+import { geom2, rectangle } from '@simplyprint/jscad-modeling'
 
 import { serialize } from '../src/index.js'
 import { dxfHeaders, dxfClasses, dxfTables, dxfBlocks, dxfObjects } from '../src/autocad_AC2017.js'

@@ -1,4 +1,4 @@
-import { supportedOutputExtensions, supportedOutputFormats } from '@jscad/io'
+import { supportedOutputExtensions, supportedOutputFormats } from '@simplyprint/jscad-io'
 
 export const determineOutputNameAndFormat = (outputFormat, outputFile, inputFile) => {
   const extReg = new RegExp(`\\.(${supportedOutputExtensions().join('|')})$`)

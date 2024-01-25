@@ -1,9 +1,9 @@
-## @jscad/obj-serializer
+## @simplyprint/jscad-obj-serializer
 
 > Serializer of JSCAD geometries to OBJ shapes
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fobj-serializer.svg)](https://www.npmjs.com/package/@jscad/obj-serializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/obj-serializer)](https://www.npmjs.com/package/@jscad/obj-serializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fobj-serializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-obj-serializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-obj-serializer)](https://www.npmjs.com/package/@simplyprint/jscad-obj-serializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -35,13 +35,13 @@ The serialization of the following geometries are possible.
 ## Installation
 
 ```
-npm install @jscad/obj-serializer
+npm install @simplyprint/jscad-obj-serializer
 ```
 
 ## Usage
 
 ```javascript
-const objSerializer = require('@jscad/obj-serializer')
+const objSerializer = require('@simplyprint/jscad-obj-serializer')
 
 const rawData = objSerializer.serialize({}, geometry)
 

@@ -1,9 +1,9 @@
-# @jscad/modeling
+# @simplyprint/jscad-modeling
 
 > Solid Modelling Library for 2D and 3D Geometries
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fmodeling.svg)](https://www.npmjs.com/package/@jscad/modeling)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/modeling)](https://www.npmjs.com/package/@jscad/modeling)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fmodeling.svg)](https://www.npmjs.com/package/@simplyprint/jscad-modeling)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-modeling)](https://www.npmjs.com/package/@simplyprint/jscad-modeling)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -35,13 +35,13 @@ This library contains boolean operations based on Constructive Solid Geometry (C
 
 This package is published and available for download via [NPM](https://www.npmjs.com/org/jscad)
 ```
-npm install @jscad/modeling
+npm install @simplyprint/jscad-modeling
 ```
 
 In addition, this package is hosted at [UNPKG](https://unpkg.com/), and can be imported directly into webpages.
 
 ```
-<script language="javascript" src="https://unpkg.com/@jscad/modeling" id="MODELING"></script>
+<script language="javascript" src="https://unpkg.com/@simplyprint/jscad-modeling" id="MODELING"></script>
 ```
 
 ## Usage
@@ -49,8 +49,8 @@ In addition, this package is hosted at [UNPKG](https://unpkg.com/), and can be i
 As a Node module:
 
 ```
-const {color, connectors, geometry, math, primitives, text, utils} = require('@jscad/modeling')
-const {booleans, extrusions, hulls, measurements, offsets, transforms} = require('@jscad/modeling')
+const {color, connectors, geometry, math, primitives, text, utils} = require('@simplyprint/jscad-modeling')
+const {booleans, extrusions, hulls, measurements, offsets, transforms} = require('@simplyprint/jscad-modeling')
 ```
 
 ## Documentation

@@ -19,8 +19,8 @@ const appUpdateSource = (packageInfo) => {
         result += x
       }).on('end', () => {
         const info = JSON.parse(result)
-        // we are only interested in @jscad/desktop releases
-        if (info.tag_name && info.tag_name.includes('@jscad/desktop')) {
+        // we are only interested in @simplyprint/jscad-desktop releases
+        if (info.tag_name && info.tag_name.includes('@simplyprint/jscad-desktop')) {
           const remoteVersion = info.tag_name.split('@')[2]
           const localVersion = packageInfo.version
           const updateAvailable = (compareVersion(remoteVersion, localVersion) > 0)

@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { circle, rectangle } from '@jscad/modeling'
+import { circle, rectangle } from '@simplyprint/jscad-modeling'
 
 import { serialize } from '../src/index.js'
 

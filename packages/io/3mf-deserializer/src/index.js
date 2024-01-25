@@ -19,7 +19,7 @@ All code released under MIT license
  * @see {@link https://github.com/jscad/OpenJSCAD.org/blob/master/packages/io/3mf-deserializer/README.md|README} for supported conversion of 3MF objects.
  * @module io/3mf-deserializer
  * @example
- * import { deserializer, mimeType } from '@jscad/3mf-serializer'
+ * import { deserializer, mimeType } from '@simplyprint/jscad-3mf-serializer'
  */
 
 import { unzipSync, strFromU8 } from 'fflate'

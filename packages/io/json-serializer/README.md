@@ -1,9 +1,9 @@
-# @jscad/json-serializer
+# @simplyprint/jscad-json-serializer
 
 > Serializer of JSCAD geometries to JSON (JavaScript Object Notation)
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fjson-serializer.svg)](https://www.npmjs.com/package/@jscad/json-serializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/json-serializer)](https://www.npmjs.com/package/@jscad/json-serializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fjson-serializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-json-serializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-json-serializer)](https://www.npmjs.com/package/@simplyprint/jscad-json-serializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -37,13 +37,13 @@ The serialization of the following geometries are possible.
 ## Installation
 
 ```
-npm install @jscad/json-serializer
+npm install @simplyprint/jscad-json-serializer
 ```
 
 ## Usage
 
 ```javascript
-const jsonSerializer = require('@jscad/json-serializer')
+const jsonSerializer = require('@simplyprint/jscad-json-serializer')
 
 const rawData = jsonSerializer.serialize({}, geometry)
 

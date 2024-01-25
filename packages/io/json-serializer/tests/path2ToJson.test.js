@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { arc } from '@jscad/modeling'
+import { arc } from '@simplyprint/jscad-modeling'
 
 import { serialize } from '../src/index.js'
 

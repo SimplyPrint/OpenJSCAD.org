@@ -1,10 +1,10 @@
-# @jscad/core
+# @simplyprint/jscad-core
 
 This is the core package of reusable crucial pieces of code for JSCAD, which is used in the various 'front end'
-packages like @jscad/cli , @jscad/web, @jscad/desktop
+packages like @simplyprint/jscad-cli , @simplyprint/jscad-web, @simplyprint/jscad-desktop
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fcore.svg)](https://www.npmjs.com/package/@jscad/core)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/core)](https://www.npmjs.com/package/@jscad/core)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fcore.svg)](https://www.npmjs.com/package/@simplyprint/jscad-core)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-core)](https://www.npmjs.com/package/@simplyprint/jscad-core)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)

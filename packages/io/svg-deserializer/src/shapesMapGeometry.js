@@ -1,4 +1,4 @@
-import { circle, ellipse, geom2, line, path2, rectangle, roundedRectangle } from '@jscad/modeling'
+import { circle, ellipse, geom2, line, path2, rectangle, roundedRectangle } from '@simplyprint/jscad-modeling'
 
 import { svg2cag, cagLengthX, cagLengthY, cagLengthP, reflect } from './helpers.js'
 

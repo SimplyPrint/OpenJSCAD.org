@@ -1,4 +1,4 @@
-const { flatten } = require('@jscad/array-utils')
+const { flatten } = require('@simplyprint/jscad-array-utils')
 
 const scale = (params, ...objects) => {
   objects = flatten(objects)

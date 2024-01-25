@@ -2,7 +2,7 @@
  * JSCAD Utility functions for arrays.
  * @module array-utils
  * @example
- * const { flatten, head } = require('@jscad/array-utils')
+ * const { flatten, head } = require('@simplyprint/jscad-array-utils')
  */
 
 export { flatten } from './flatten.js'

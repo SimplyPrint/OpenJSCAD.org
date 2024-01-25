@@ -9,15 +9,15 @@
  *
  * @module io/3mf-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/3mf-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-3mf-serializer')
  */
 
 import { zipSync, strToU8 } from 'fflate'
 
-import { stringify } from '@jscad/io-utils'
+import { stringify } from '@simplyprint/jscad-io-utils'
 
-import { geom3, rgbToHex, generalize } from '@jscad/modeling'
-import { flatten, toArray } from '@jscad/array-utils'
+import { geom3, rgbToHex, generalize } from '@simplyprint/jscad-modeling'
+import { flatten, toArray } from '@simplyprint/jscad-array-utils'
 
 const mimeType = 'model/3mf'
 

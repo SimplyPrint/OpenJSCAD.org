@@ -1,4 +1,4 @@
-const { cube, sphere } = require('@jscad/csg/api').primitives3d
+const { cube, sphere } = require('@simplyprint/jscad-csg/api').primitives3d
 
 const main = () => [cube(), sphere()]
 

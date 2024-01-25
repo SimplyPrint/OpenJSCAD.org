@@ -10,10 +10,10 @@
  * @see https://www.json.org
  * @module io/json-deserializer
  * @example
- * const { deserializer, extension } = require('@jscad/json-deserializer')
+ * const { deserializer, extension } = require('@simplyprint/jscad-json-deserializer')
  */
 
-import { flatten, toArray } from '@jscad/array-utils'
+import { flatten, toArray } from '@simplyprint/jscad-array-utils'
 
 const version = '[VI]{version}[/VI]' // version is injected by rollup
 
@@ -63,7 +63,7 @@ const translate = (options, objects) => {
 
   script +=
 `
-const { geometries } = require('@jscad/modeling')
+const { geometries } = require('@simplyprint/jscad-modeling')
 
 const main = () => {
   const objects = [${translateToList(objects)} ]

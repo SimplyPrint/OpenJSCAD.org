@@ -70,7 +70,7 @@ const actions = (sources) => {
       .map((event) => {
         try {
           if (event.data instanceof Object) {
-            const { CAG, CSG } = require('@jscad/csg')
+            const { CAG, CSG } = require('@simplyprint/jscad-csg')
             const solids = event.data.solids.map((object) => {
               if (object.class === 'CSG') { return CSG.fromCompactBinary(object) }
               if (object.class === 'CAG') { return CAG.fromCompactBinary(object) }

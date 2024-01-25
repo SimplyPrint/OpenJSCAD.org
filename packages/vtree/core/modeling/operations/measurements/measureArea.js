@@ -1,5 +1,5 @@
-const { flatten } = require('@jscad/array-utils')
-const measureArea = require('@jscad/modeling').measurements.measureArea
+const { flatten } = require('@simplyprint/jscad-array-utils')
+const measureArea = require('@simplyprint/jscad-modeling').measurements.measureArea
 
 const cacheWithInvalidation = require('../../../cacheWithInvalidation')
 const cachedGenerator = require('../../../generators/geometry-generator-cached-csg')

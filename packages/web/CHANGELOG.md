@@ -3,23 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.6.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.6.4...@jscad/web@2.6.5) (2023-06-27)
+## [2.6.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.6.4...@simplyprint/jscad-web@2.6.5) (2023-06-27)
 
-**Note:** Version bump only for package @jscad/web
-
-
-
-
-
-## [2.6.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.6.3...@jscad/web@2.6.4) (2023-04-30)
-
-**Note:** Version bump only for package @jscad/web
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
 
 
-## [2.6.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.6.2...@jscad/web@2.6.3) (2023-01-09)
+## [2.6.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.6.3...@simplyprint/jscad-web@2.6.4) (2023-04-30)
+
+**Note:** Version bump only for package @simplyprint/jscad-web
+
+
+
+
+
+## [2.6.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.6.2...@simplyprint/jscad-web@2.6.3) (2023-01-09)
 
 
 ### Bug Fixes
@@ -30,23 +30,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.6.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.6.1...@jscad/web@2.6.2) (2022-11-26)
+## [2.6.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.6.1...@simplyprint/jscad-web@2.6.2) (2022-11-26)
 
-**Note:** Version bump only for package @jscad/web
-
-
-
-
-
-## [2.6.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.6.0...@jscad/web@2.6.1) (2022-09-23)
-
-**Note:** Version bump only for package @jscad/web
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
 
 
-# [2.6.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.12...@jscad/web@2.6.0) (2022-08-21)
+## [2.6.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.6.0...@simplyprint/jscad-web@2.6.1) (2022-09-23)
+
+**Note:** Version bump only for package @simplyprint/jscad-web
+
+
+
+
+
+# [2.6.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.12...@simplyprint/jscad-web@2.6.0) (2022-08-21)
 
 
 ### Bug Fixes
@@ -62,7 +62,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.12](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.11...@jscad/web@2.5.12) (2022-07-17)
+## [2.5.12](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.11...@simplyprint/jscad-web@2.5.12) (2022-07-17)
 
 
 ### Performance Improvements
@@ -73,15 +73,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.11](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.10...@jscad/web@2.5.11) (2022-06-12)
+## [2.5.11](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.10...@simplyprint/jscad-web@2.5.11) (2022-06-12)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-## [2.5.10](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.9...@jscad/web@2.5.10) (2022-05-15)
+
+
+## [2.5.10](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.9...@simplyprint/jscad-web@2.5.10) (2022-05-15)
 
 
 ### Bug Fixes
@@ -94,7 +94,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.9](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.8...@jscad/web@2.5.9) (2022-04-24)
+## [2.5.9](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.8...@simplyprint/jscad-web@2.5.9) (2022-04-24)
 
 
 ### Bug Fixes
@@ -105,15 +105,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.8](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.7...@jscad/web@2.5.8) (2022-04-03)
+## [2.5.8](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.7...@simplyprint/jscad-web@2.5.8) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-## [2.5.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.6...@jscad/web@2.5.7) (2022-04-03)
+
+
+## [2.5.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.6...@simplyprint/jscad-web@2.5.7) (2022-04-03)
 
 
 ### Bug Fixes
@@ -124,15 +124,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.5...@jscad/web@2.5.6) (2022-03-13)
+## [2.5.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.5...@simplyprint/jscad-web@2.5.6) (2022-03-13)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-## [2.5.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.4...@jscad/web@2.5.5) (2022-03-06)
+
+
+## [2.5.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.4...@simplyprint/jscad-web@2.5.5) (2022-03-06)
 
 
 ### Bug Fixes
@@ -143,7 +143,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.3...@jscad/web@2.5.4) (2022-02-19)
+## [2.5.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.3...@simplyprint/jscad-web@2.5.4) (2022-02-19)
 
 
 ### Bug Fixes
@@ -154,7 +154,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.2...@jscad/web@2.5.3) (2022-01-23)
+## [2.5.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.2...@simplyprint/jscad-web@2.5.3) (2022-01-23)
 
 
 ### Bug Fixes
@@ -166,15 +166,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.5.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.1...@jscad/web@2.5.2) (2021-12-26)
+## [2.5.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.1...@simplyprint/jscad-web@2.5.2) (2021-12-26)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-## [2.5.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.5.0...@jscad/web@2.5.1) (2021-12-11)
+
+
+## [2.5.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.5.0...@simplyprint/jscad-web@2.5.1) (2021-12-11)
 
 
 ### Bug Fixes
@@ -185,7 +185,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.5.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.4.4...@jscad/web@2.5.0) (2021-11-07)
+# [2.5.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.4.4...@simplyprint/jscad-web@2.5.0) (2021-11-07)
 
 
 ### Features
@@ -196,7 +196,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.4.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.4.3...@jscad/web@2.4.4) (2021-10-17)
+## [2.4.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.4.3...@simplyprint/jscad-web@2.4.4) (2021-10-17)
 
 
 ### Bug Fixes
@@ -207,7 +207,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.4.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.4.2...@jscad/web@2.4.3) (2021-10-04)
+## [2.4.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.4.2...@simplyprint/jscad-web@2.4.3) (2021-10-04)
 
 
 ### Bug Fixes
@@ -218,15 +218,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.4.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.4.1...@jscad/web@2.4.2) (2021-09-27)
+## [2.4.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.4.1...@simplyprint/jscad-web@2.4.2) (2021-09-27)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-## [2.4.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.4.0...@jscad/web@2.4.1) (2021-09-09)
+
+
+## [2.4.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.4.0...@simplyprint/jscad-web@2.4.1) (2021-09-09)
 
 
 ### Bug Fixes
@@ -244,7 +244,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.4.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.3.3...@jscad/web@2.4.0) (2021-06-20)
+# [2.4.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.3.3...@simplyprint/jscad-web@2.4.0) (2021-06-20)
 
 
 ### Features
@@ -255,7 +255,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.3.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.3.2...@jscad/web@2.3.3) (2021-06-11)
+## [2.3.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.3.2...@simplyprint/jscad-web@2.3.3) (2021-06-11)
 
 
 ### Bug Fixes
@@ -271,15 +271,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.3.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.3.1...@jscad/web@2.3.2) (2021-06-01)
+## [2.3.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.3.1...@simplyprint/jscad-web@2.3.2) (2021-06-01)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-## [2.3.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.3.0...@jscad/web@2.3.1) (2021-05-16)
+
+
+## [2.3.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.3.0...@simplyprint/jscad-web@2.3.1) (2021-05-16)
 
 
 ### Bug Fixes
@@ -292,7 +292,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.2.2...@jscad/web@2.3.0) (2021-05-07)
+# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.2.2...@simplyprint/jscad-web@2.3.0) (2021-05-07)
 
 
 ### Bug Fixes
@@ -308,58 +308,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.2.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.2.1...@jscad/web@2.2.2) (2021-04-30)
+## [2.2.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.2.1...@simplyprint/jscad-web@2.2.2) (2021-04-30)
 
-**Note:** Version bump only for package @jscad/web
-
-
-
-
-
-## [2.2.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.2.0...@jscad/web@2.2.1) (2021-04-20)
-
-**Note:** Version bump only for package @jscad/web
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
 
 
-# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.0...@jscad/web@2.2.0) (2021-04-17)
+## [2.2.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.2.0...@simplyprint/jscad-web@2.2.1) (2021-04-20)
 
-
-### Bug Fixes
-
-* **all:** support sparse arrays from main() ([#672](https://github.com/jscad/OpenJSCAD.org/issues/672)) ([209961d](https://github.com/jscad/OpenJSCAD.org/commit/209961d41ebf77373d427a7986934d195780f118))
-* **all:** update dependencies ([d8c713a](https://github.com/jscad/OpenJSCAD.org/commit/d8c713a933b97a6d179ed3d3e923e188e334f99e))
-* **all:** V2 : allow other file types to be loaded into the fake FS of the WEB UI ([#709](https://github.com/jscad/OpenJSCAD.org/issues/709)) ([1d4304a](https://github.com/jscad/OpenJSCAD.org/commit/1d4304ae6b42c51b0526cba369eab1806fe8f274))
-* **all:** V2 : several fixes for modeling ([#705](https://github.com/jscad/OpenJSCAD.org/issues/705)) ([62017a4](https://github.com/jscad/OpenJSCAD.org/commit/62017a41214169d6e000f1e0c11aaefdd68e1097))
-* **core:** corrected webRequire to use posix paths ([53a6e85](https://github.com/jscad/OpenJSCAD.org/commit/53a6e85e1dc8f515e8e259e0bb40f292909645fa))
-* **regl-renderer:** Changes to improve regl-renderer ([#722](https://github.com/jscad/OpenJSCAD.org/issues/722)) ([7bcc689](https://github.com/jscad/OpenJSCAD.org/commit/7bcc689e3d36cfbc3ac6f9b4c3822a72d54a996e))
-* **web:** apply throttles on viewer events, creating smoother transitions ([4528a7e](https://github.com/jscad/OpenJSCAD.org/commit/4528a7e310c26117982aebaf26307fbd78c51538))
-* **web:** changed the file system watcher to use setTimeout(), and calculate dynamic delays ([#725](https://github.com/jscad/OpenJSCAD.org/issues/725)) ([9757561](https://github.com/jscad/OpenJSCAD.org/commit/97575616ff850ee2a1d8a619f9ddd5e57efbda6a))
-* **web:** corrected errors when uploading files using Chrome OS [#331](https://github.com/jscad/OpenJSCAD.org/issues/331) ([#441](https://github.com/jscad/OpenJSCAD.org/issues/441)), late V1 fix ([025aab2](https://github.com/jscad/OpenJSCAD.org/commit/025aab22f2517f5e499c044ef432781876399375))
-* **web:** fixes for slider, group, and choice parameter types ([a3faba3](https://github.com/jscad/OpenJSCAD.org/commit/a3faba367604c897d240f56ba86ddb5404034afd))
-* **web:** improve tracking of rotate/pan/zoom changes ([#717](https://github.com/jscad/OpenJSCAD.org/issues/717)) ([ab69808](https://github.com/jscad/OpenJSCAD.org/commit/ab69808f8f17e2f5603c741fc793067e4b6d448b))
-* **web:** V2 enable multi-gesture touch events for mobile devices ([#686](https://github.com/jscad/OpenJSCAD.org/issues/686)) ([3243f17](https://github.com/jscad/OpenJSCAD.org/commit/3243f17da5679d8bb6c19819a0e130ef5aafbb60))
-* **web:** V2 fix instant update ([#744](https://github.com/jscad/OpenJSCAD.org/issues/744)) ([c009e6d](https://github.com/jscad/OpenJSCAD.org/commit/c009e6df90d5dad99219e18ba83468ad75b10051))
-* **web:** V2 fix loading of designs from remote URLs ([#692](https://github.com/jscad/OpenJSCAD.org/issues/692)) ([21940a2](https://github.com/jscad/OpenJSCAD.org/commit/21940a2f113e574a05757e1f21811c485339d74e))
-* **web:** V2 web layout tweaks ([#687](https://github.com/jscad/OpenJSCAD.org/issues/687)) ([15f96a4](https://github.com/jscad/OpenJSCAD.org/commit/15f96a4bdfb61b2920a6b8999ad38e0e738c6eb4))
-* **web:** various minor improvements ([#764](https://github.com/jscad/OpenJSCAD.org/issues/764)) ([82baca5](https://github.com/jscad/OpenJSCAD.org/commit/82baca565d3640b62ee27e6dacb41ba15c2bbc77))
-
-
-### Features
-
-* **core:** V2 : Fix core packaging ([#720](https://github.com/jscad/OpenJSCAD.org/issues/720)) ([e19c10c](https://github.com/jscad/OpenJSCAD.org/commit/e19c10c6d1a8f2b4f15a0b81144be8439095e02f))
-* **examples:** examples overhaul for V2 JSCAD ([d73e06f](https://github.com/jscad/OpenJSCAD.org/commit/d73e06f51e187e673487c3d9599672e66ac441d7))
-* **modeling:** add align() and measureAggregateBoundingBox() functions ([72df65c](https://github.com/jscad/OpenJSCAD.org/commit/72df65cfec065f26a84a8bb1ff80f5750a9972bf))
-* **modeling:** V2 : rename option to align and center ([#775](https://github.com/jscad/OpenJSCAD.org/issues/775)) ([c5b0f48](https://github.com/jscad/OpenJSCAD.org/commit/c5b0f48bbd980b59876d73b673a0e3bef44d2b30))
-* **web:** V2 : initial implementation of the built-in editor ([#746](https://github.com/jscad/OpenJSCAD.org/issues/746)) ([cc260ed](https://github.com/jscad/OpenJSCAD.org/commit/cc260edc873bc75a853d91c9d08bae85b69e9238))
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
 
 
-# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.0...@jscad/web@2.1.0) (2021-04-15)
+# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.0...@simplyprint/jscad-web@2.2.0) (2021-04-17)
 
 
 ### Bug Fixes
@@ -394,15 +359,50 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.16...@jscad/web@2.0.0) (2021-04-12)
-
-**Note:** Version bump only for package @jscad/web
+# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.0...@simplyprint/jscad-web@2.1.0) (2021-04-15)
 
 
+### Bug Fixes
+
+* **all:** support sparse arrays from main() ([#672](https://github.com/jscad/OpenJSCAD.org/issues/672)) ([209961d](https://github.com/jscad/OpenJSCAD.org/commit/209961d41ebf77373d427a7986934d195780f118))
+* **all:** update dependencies ([d8c713a](https://github.com/jscad/OpenJSCAD.org/commit/d8c713a933b97a6d179ed3d3e923e188e334f99e))
+* **all:** V2 : allow other file types to be loaded into the fake FS of the WEB UI ([#709](https://github.com/jscad/OpenJSCAD.org/issues/709)) ([1d4304a](https://github.com/jscad/OpenJSCAD.org/commit/1d4304ae6b42c51b0526cba369eab1806fe8f274))
+* **all:** V2 : several fixes for modeling ([#705](https://github.com/jscad/OpenJSCAD.org/issues/705)) ([62017a4](https://github.com/jscad/OpenJSCAD.org/commit/62017a41214169d6e000f1e0c11aaefdd68e1097))
+* **core:** corrected webRequire to use posix paths ([53a6e85](https://github.com/jscad/OpenJSCAD.org/commit/53a6e85e1dc8f515e8e259e0bb40f292909645fa))
+* **regl-renderer:** Changes to improve regl-renderer ([#722](https://github.com/jscad/OpenJSCAD.org/issues/722)) ([7bcc689](https://github.com/jscad/OpenJSCAD.org/commit/7bcc689e3d36cfbc3ac6f9b4c3822a72d54a996e))
+* **web:** apply throttles on viewer events, creating smoother transitions ([4528a7e](https://github.com/jscad/OpenJSCAD.org/commit/4528a7e310c26117982aebaf26307fbd78c51538))
+* **web:** changed the file system watcher to use setTimeout(), and calculate dynamic delays ([#725](https://github.com/jscad/OpenJSCAD.org/issues/725)) ([9757561](https://github.com/jscad/OpenJSCAD.org/commit/97575616ff850ee2a1d8a619f9ddd5e57efbda6a))
+* **web:** corrected errors when uploading files using Chrome OS [#331](https://github.com/jscad/OpenJSCAD.org/issues/331) ([#441](https://github.com/jscad/OpenJSCAD.org/issues/441)), late V1 fix ([025aab2](https://github.com/jscad/OpenJSCAD.org/commit/025aab22f2517f5e499c044ef432781876399375))
+* **web:** fixes for slider, group, and choice parameter types ([a3faba3](https://github.com/jscad/OpenJSCAD.org/commit/a3faba367604c897d240f56ba86ddb5404034afd))
+* **web:** improve tracking of rotate/pan/zoom changes ([#717](https://github.com/jscad/OpenJSCAD.org/issues/717)) ([ab69808](https://github.com/jscad/OpenJSCAD.org/commit/ab69808f8f17e2f5603c741fc793067e4b6d448b))
+* **web:** V2 enable multi-gesture touch events for mobile devices ([#686](https://github.com/jscad/OpenJSCAD.org/issues/686)) ([3243f17](https://github.com/jscad/OpenJSCAD.org/commit/3243f17da5679d8bb6c19819a0e130ef5aafbb60))
+* **web:** V2 fix instant update ([#744](https://github.com/jscad/OpenJSCAD.org/issues/744)) ([c009e6d](https://github.com/jscad/OpenJSCAD.org/commit/c009e6df90d5dad99219e18ba83468ad75b10051))
+* **web:** V2 fix loading of designs from remote URLs ([#692](https://github.com/jscad/OpenJSCAD.org/issues/692)) ([21940a2](https://github.com/jscad/OpenJSCAD.org/commit/21940a2f113e574a05757e1f21811c485339d74e))
+* **web:** V2 web layout tweaks ([#687](https://github.com/jscad/OpenJSCAD.org/issues/687)) ([15f96a4](https://github.com/jscad/OpenJSCAD.org/commit/15f96a4bdfb61b2920a6b8999ad38e0e738c6eb4))
+* **web:** various minor improvements ([#764](https://github.com/jscad/OpenJSCAD.org/issues/764)) ([82baca5](https://github.com/jscad/OpenJSCAD.org/commit/82baca565d3640b62ee27e6dacb41ba15c2bbc77))
+
+
+### Features
+
+* **core:** V2 : Fix core packaging ([#720](https://github.com/jscad/OpenJSCAD.org/issues/720)) ([e19c10c](https://github.com/jscad/OpenJSCAD.org/commit/e19c10c6d1a8f2b4f15a0b81144be8439095e02f))
+* **examples:** examples overhaul for V2 JSCAD ([d73e06f](https://github.com/jscad/OpenJSCAD.org/commit/d73e06f51e187e673487c3d9599672e66ac441d7))
+* **modeling:** add align() and measureAggregateBoundingBox() functions ([72df65c](https://github.com/jscad/OpenJSCAD.org/commit/72df65cfec065f26a84a8bb1ff80f5750a9972bf))
+* **modeling:** V2 : rename option to align and center ([#775](https://github.com/jscad/OpenJSCAD.org/issues/775)) ([c5b0f48](https://github.com/jscad/OpenJSCAD.org/commit/c5b0f48bbd980b59876d73b673a0e3bef44d2b30))
+* **web:** V2 : initial implementation of the built-in editor ([#746](https://github.com/jscad/OpenJSCAD.org/issues/746)) ([cc260ed](https://github.com/jscad/OpenJSCAD.org/commit/cc260edc873bc75a853d91c9d08bae85b69e9238))
 
 
 
-# [2.0.0-alpha.16](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.15...@jscad/web@2.0.0-alpha.16) (2021-03-07)
+
+
+# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.16...@simplyprint/jscad-web@2.0.0) (2021-04-12)
+
+**Note:** Version bump only for package @simplyprint/jscad-web
+
+
+
+
+
+# [2.0.0-alpha.16](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.15...@simplyprint/jscad-web@2.0.0-alpha.16) (2021-03-07)
 
 
 ### Features
@@ -413,7 +413,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.15](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.14...@jscad/web@2.0.0-alpha.15) (2021-02-07)
+# [2.0.0-alpha.15](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.14...@simplyprint/jscad-web@2.0.0-alpha.15) (2021-02-07)
 
 
 ### Bug Fixes
@@ -425,7 +425,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.14](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.13...@jscad/web@2.0.0-alpha.14) (2021-01-02)
+# [2.0.0-alpha.14](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.13...@simplyprint/jscad-web@2.0.0-alpha.14) (2021-01-02)
 
 
 ### Bug Fixes
@@ -441,15 +441,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.13](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.12...@jscad/web@2.0.0-alpha.13) (2020-12-04)
+# [2.0.0-alpha.13](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.12...@simplyprint/jscad-web@2.0.0-alpha.13) (2020-12-04)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-# [2.0.0-alpha.12](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.11...@jscad/web@2.0.0-alpha.12) (2020-11-07)
+
+
+# [2.0.0-alpha.12](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.11...@simplyprint/jscad-web@2.0.0-alpha.12) (2020-11-07)
 
 
 ### Bug Fixes
@@ -466,7 +466,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.11](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.10...@jscad/web@2.0.0-alpha.11) (2020-10-24)
+# [2.0.0-alpha.11](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.10...@simplyprint/jscad-web@2.0.0-alpha.11) (2020-10-24)
 
 
 ### Bug Fixes
@@ -478,7 +478,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.10](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.9...@jscad/web@2.0.0-alpha.10) (2020-10-11)
+# [2.0.0-alpha.10](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.9...@simplyprint/jscad-web@2.0.0-alpha.10) (2020-10-11)
 
 
 ### Bug Fixes
@@ -489,15 +489,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.9](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.8...@jscad/web@2.0.0-alpha.9) (2020-09-29)
+# [2.0.0-alpha.9](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.8...@simplyprint/jscad-web@2.0.0-alpha.9) (2020-09-29)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-# [2.0.0-alpha.8](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.7...@jscad/web@2.0.0-alpha.8) (2020-09-28)
+
+
+# [2.0.0-alpha.8](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.7...@simplyprint/jscad-web@2.0.0-alpha.8) (2020-09-28)
 
 
 ### Bug Fixes
@@ -509,7 +509,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.6...@jscad/web@2.0.0-alpha.7) (2020-09-19)
+# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.6...@simplyprint/jscad-web@2.0.0-alpha.7) (2020-09-19)
 
 
 ### Bug Fixes
@@ -526,7 +526,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.5...@jscad/web@2.0.0-alpha.6) (2020-09-08)
+# [2.0.0-alpha.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.5...@simplyprint/jscad-web@2.0.0-alpha.6) (2020-09-08)
 
 
 ### Bug Fixes
@@ -542,7 +542,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.4...@jscad/web@2.0.0-alpha.5) (2020-09-02)
+# [2.0.0-alpha.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.4...@simplyprint/jscad-web@2.0.0-alpha.5) (2020-09-02)
 
 
 ### Bug Fixes
@@ -553,7 +553,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.3...@jscad/web@2.0.0-alpha.4) (2020-08-26)
+# [2.0.0-alpha.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.3...@simplyprint/jscad-web@2.0.0-alpha.4) (2020-08-26)
 
 * **regl-renderer:** various fixes to renderer
 
@@ -561,7 +561,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.2...@jscad/web@2.0.0-alpha.3) (2020-08-24)
+# [2.0.0-alpha.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.2...@simplyprint/jscad-web@2.0.0-alpha.3) (2020-08-24)
 
 
 ### Bug Fixes
@@ -572,7 +572,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.1...@jscad/web@2.0.0-alpha.2) (2020-08-23)
+# [2.0.0-alpha.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.1...@simplyprint/jscad-web@2.0.0-alpha.2) (2020-08-23)
 
 
 ### Bug Fixes
@@ -584,15 +584,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@2.0.0-alpha.0...@jscad/web@2.0.0-alpha.1) (2020-08-19)
+# [2.0.0-alpha.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@2.0.0-alpha.0...@simplyprint/jscad-web@2.0.0-alpha.1) (2020-08-19)
 
-**Note:** Version bump only for package @jscad/web
-
-
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 
 
-# [2.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.10.0...@jscad/web@2.0.0-alpha.0) (2020-08-13)
+
+
+# [2.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.10.0...@simplyprint/jscad-web@2.0.0-alpha.0) (2020-08-13)
 
 
 ### Bug Fixes
@@ -627,7 +627,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.10.0"></a>
-# [1.10.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.9.0...@jscad/web@1.10.0) (2019-01-04)
+# [1.10.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.9.0...@simplyprint/jscad-web@1.10.0) (2019-01-04)
 
 
 ### Features
@@ -638,7 +638,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.9.0"></a>
-# [1.9.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.8.4...@jscad/web@1.9.0) (2018-09-02)
+# [1.9.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.8.4...@simplyprint/jscad-web@1.9.0) (2018-09-02)
 
 
 ### Features
@@ -649,7 +649,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.8.4"></a>
-## [1.8.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.8.3...@jscad/web@1.8.4) (2018-05-12)
+## [1.8.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.8.3...@simplyprint/jscad-web@1.8.4) (2018-05-12)
 
 
 ### Bug Fixes
@@ -660,7 +660,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.8.3"></a>
-## [1.8.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.8.2...@jscad/web@1.8.3) (2018-04-07)
+## [1.8.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.8.2...@simplyprint/jscad-web@1.8.3) (2018-04-07)
 
 
 ### Bug Fixes
@@ -671,15 +671,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.8.2"></a>
-## [1.8.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.8.1...@jscad/web@1.8.2) (2018-04-07)
+## [1.8.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.8.1...@simplyprint/jscad-web@1.8.2) (2018-04-07)
 
 
 
 
-**Note:** Version bump only for package @jscad/web
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 <a name="1.8.1"></a>
-## [1.8.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.8.0...@jscad/web@1.8.1) (2018-04-02)
+## [1.8.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.8.0...@simplyprint/jscad-web@1.8.1) (2018-04-02)
 
 
 ### Bug Fixes
@@ -690,7 +690,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.8.0"></a>
-# [1.8.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.7.0...@jscad/web@1.8.0) (2018-03-10)
+# [1.8.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.7.0...@simplyprint/jscad-web@1.8.0) (2018-03-10)
 
 
 ### Features
@@ -701,7 +701,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.7.0"></a>
-# [1.7.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/web@1.6.2...@jscad/web@1.7.0) (2018-03-09)
+# [1.7.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-web@1.6.2...@simplyprint/jscad-web@1.7.0) (2018-03-09)
 
 
 ### Features
@@ -717,7 +717,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package @jscad/web
+**Note:** Version bump only for package @simplyprint/jscad-web
 
 <a name="1.6.2"></a>
 ## 1.6.2 (2018-02-13)
@@ -725,4 +725,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package @jscad/web
+**Note:** Version bump only for package @simplyprint/jscad-web

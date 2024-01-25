@@ -1,4 +1,4 @@
-import { poly3, vec2, vec3 } from '@jscad/modeling'
+import { poly3, vec2, vec3 } from '@simplyprint/jscad-modeling'
 
 import { instantiatePolygon, instantiateVector } from './instantiate.js'
 
@@ -821,7 +821,7 @@ export const translateAsciiDxf = (reader, options) => {
   // translate the last object if necessary
   current = translateCurrent(current, layers, parts, options)
 
-  let script = `import * from '@jscad/modeling'
+  let script = `import * from '@simplyprint/jscad-modeling'
 
 export const main = () => {
   let layers = []

@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/3mf-deserializer",
+  "name": "@simplyprint/jscad-3mf-deserializer",
   "version": "3.0.0-alpha.0",
   "description": "3MF Deserializer for JSCAD",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org/",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "main": "src/index.js",
   "unpkg": "dist/jscad-3mf-deserializer.min.js",
@@ -28,12 +32,9 @@
     "3mf"
   ],
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
-    "@jscad/array-utils": "workspace:3.0.0-alpha.0",
-    "@jscad/modeling": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-array-utils": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-modeling": "workspace:3.0.0-alpha.0",
     "fflate": "^0.7.3",
     "saxes": "^6.0.0"
   },

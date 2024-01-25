@@ -1,10 +1,10 @@
 const { flatten } = require('./arrays')
-const { cube, sphere, cylinder } = require('@jscad/csg/api').primitives3d
-const { circle, square } = require('@jscad/csg/api').primitives2d
-const { union, difference, intersection } = require('@jscad/csg/api').booleanOps
-const { translate, rotate, scale, mirror, hull, chain_hull, contract } = require('@jscad/csg/api').transformations
-const { colorize } = require('@jscad/csg/api').colors
-const { linear_extrude, rectangular_extrude, rotate_extrude } = require('@jscad/csg/api').extrusions
+const { cube, sphere, cylinder } = require('@simplyprint/jscad-csg/api').primitives3d
+const { circle, square } = require('@simplyprint/jscad-csg/api').primitives2d
+const { union, difference, intersection } = require('@simplyprint/jscad-csg/api').booleanOps
+const { translate, rotate, scale, mirror, hull, chain_hull, contract } = require('@simplyprint/jscad-csg/api').transformations
+const { colorize } = require('@simplyprint/jscad-csg/api').colors
+const { linear_extrude, rectangular_extrude, rotate_extrude } = require('@simplyprint/jscad-csg/api').extrusions
 
 const generate = (node, cache) => {
   let result

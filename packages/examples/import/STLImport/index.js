@@ -8,8 +8,8 @@
  * @licence MIT License
  */
 
-const { translate, scale, rotateZ } = require('@jscad/modeling').transforms
-const { union } = require('@jscad/modeling').booleans
+const { translate, scale, rotateZ } = require('@simplyprint/jscad-modeling').transforms
+const { union } = require('@simplyprint/jscad-modeling').booleans
 
 // Load the STL files using require
 const sculpture = require('./3d_sculpture-VernonBussler.stl')

@@ -5,14 +5,14 @@ import test from 'ava'
 
 import { deserialize } from '../src/index.js'
 
-const samplesPath = '../../../node_modules/@jscad/sample-files'
+const samplesPath = '../../../node_modules/@simplyprint/jscad-sample-files'
 
 test('translate simple obj file to jscad script', (t) => {
   const inputPath = path.resolve(samplesPath, 'obj/cube.obj')
   const inputFile = fs.readFileSync(inputPath, 'utf8')
 
   const observed = deserialize({ output: 'script', addMetaData: false }, inputFile)
-  const expected = `import * from '@jscad/modeling'
+  const expected = `import * from '@simplyprint/jscad-modeling'
 
 // groups: 1
 // points: 8
@@ -83,7 +83,7 @@ f 5 6 2 1
 f 2 6 7 3
 `
   const observed = deserialize({ filename: 'absolute', output: 'script', addMetaData: false }, data)
-  const expected = `import * from '@jscad/modeling'
+  const expected = `import * from '@simplyprint/jscad-modeling'
 
 // groups: 1
 // points: 8
@@ -168,7 +168,7 @@ v 2.000000 0.000000 2.000000
 f -4 -3 -2 -1
 `
   const observed = deserialize({ output: 'script', addMetaData: false }, data)
-  const expected = `import * from '@jscad/modeling'
+  const expected = `import * from '@simplyprint/jscad-modeling'
 
 // groups: 1
 // points: 24

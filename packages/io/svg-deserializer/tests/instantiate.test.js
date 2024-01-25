@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { measureArea, measureBoundingBox } from '@jscad/modeling'
+import { measureArea, measureBoundingBox } from '@simplyprint/jscad-modeling'
 
 import { deserialize } from '../src/index.js'
 

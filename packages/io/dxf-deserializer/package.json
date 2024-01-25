@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/dxf-deserializer",
+  "name": "@simplyprint/jscad-dxf-deserializer",
   "version": "3.0.0-alpha.0",
   "description": "DXF Deserializer for JSCAD",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "main": "src/index.js",
   "unpkg": "dist/jscad-dxf-deserializer.min.js",
@@ -33,7 +37,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@jscad/modeling": "workspace:3.0.0-alpha.0"
+    "@simplyprint/jscad-modeling": "workspace:3.0.0-alpha.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.2.1",

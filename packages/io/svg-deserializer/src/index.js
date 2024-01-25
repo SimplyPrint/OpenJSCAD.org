@@ -1,7 +1,7 @@
 import saxes from 'saxes'
 
-import { colorize, mirrorX, mirrorY, rotateZ, translate, scale } from '@jscad/modeling'
-import { toArray } from '@jscad/array-utils'
+import { colorize, mirrorX, mirrorY, rotateZ, translate, scale } from '@simplyprint/jscad-modeling'
+import { toArray } from '@simplyprint/jscad-array-utils'
 
 import { pxPmm } from './constants.js'
 import { cagLengthX, cagLengthY, svgColorForTarget } from './helpers.js'
@@ -16,7 +16,7 @@ const version = '[VI]{version}[/VI]' // version is injected by rollup
  * @see {@link https://github.com/jscad/OpenJSCAD.org/blob/master/packages/io/svg-deserializer/README.md|README} for supported conversion of SVG elements.
  * @module io/svg-deserializer
  * @example
- * const { deserializer, extension } = require('@jscad/svg-deserializer')
+ * const { deserializer, extension } = require('@simplyprint/jscad-svg-deserializer')
  */
 
 /**
@@ -109,7 +109,7 @@ const translateScript = (src, options) => {
   //
 `
     : ''
-  code += 'const { colors, geometries, primitives, transforms } = require(\'@jscad/modeling\')\n\n'
+  code += 'const { colors, geometries, primitives, transforms } = require(\'@simplyprint/jscad-modeling\')\n\n'
 
   options && options.statusCallback && options.statusCallback({ progress: 50 })
 

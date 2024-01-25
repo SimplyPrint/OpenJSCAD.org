@@ -1,9 +1,9 @@
 import fs from 'fs'
 import path from 'path'
 
-import { loading } from '@jscad/core'
+import { loading } from '@simplyprint/jscad-core'
 
-import { supportedInputExtensions, supportedOutputExtensions, supportedOutputFormats } from '@jscad/io'
+import { supportedInputExtensions, supportedOutputExtensions, supportedOutputFormats } from '@simplyprint/jscad-io'
 
 import { env } from './env.js'
 

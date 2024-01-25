@@ -4,7 +4,7 @@
  * @module modeling/geometries/path2
  *
  * @example
- * import { geometries } from '@jscad/modeling'
+ * import { geometries } from '@simplyprint/jscad-modeling'
  * let myShape = geometries.path2.fromPoints({ closed: true }, [[0,0], [4,0], [4,3]])
  */
 export { appendArc } from './appendArc.js'

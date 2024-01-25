@@ -1,6 +1,6 @@
-import { geom2, geom3, path2 } from '@jscad/modeling'
+import { geom2, geom3, path2 } from '@simplyprint/jscad-modeling'
 
-import { flatten, toArray } from '@jscad/array-utils'
+import { flatten, toArray } from '@simplyprint/jscad-array-utils'
 
 import { serializeSolids } from './serializeSolids.js'
 

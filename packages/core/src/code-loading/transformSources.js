@@ -1,4 +1,4 @@
-import { deserializers } from '@jscad/io'
+import { deserializers } from '@simplyprint/jscad-io'
 
 /*
  * Transform the entry into a ready-to-use module.

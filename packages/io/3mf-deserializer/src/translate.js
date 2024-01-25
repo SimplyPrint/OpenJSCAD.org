@@ -164,7 +164,7 @@ export const translateModels = (options, models) => {
     bodycode += translatedModels[i]
   }
 
-  const code = 'import * from \'@jscad/modeling\'' +
+  const code = 'import * from \'@simplyprint/jscad-modeling\'' +
     metacode +
     `
 const objects = {} // list of objects by ID

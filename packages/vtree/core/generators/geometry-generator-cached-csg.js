@@ -1,5 +1,5 @@
-const { flatten } = require('@jscad/array-utils')
-const modeling = require('@jscad/modeling')
+const { flatten } = require('@simplyprint/jscad-array-utils')
+const modeling = require('@simplyprint/jscad-modeling')
 
 const { cube, cuboid, sphere, cylinder } = modeling.primitives
 const { circle, ellipse, rectangle, square } = modeling.primitives

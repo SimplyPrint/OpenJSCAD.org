@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/obj-deserializer",
+  "name": "@simplyprint/jscad-obj-deserializer",
   "version": "3.0.0-alpha.0",
   "description": "OBJ Deserializer for JSCAD",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "main": "src/index.js",
   "unpkg": "dist/jscad-obj-deserializer.min.js",
@@ -37,7 +41,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@jscad/modeling": "workspace:3.0.0-alpha.0"
+    "@simplyprint/jscad-modeling": "workspace:3.0.0-alpha.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.2.1",

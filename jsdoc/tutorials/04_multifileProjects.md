@@ -21,7 +21,7 @@ contain your design. Your project can also contain:
 ```
 ## hexcap/index.js
 ```javascript
-import { primtives } from '@jscad/modeling'
+import { primtives } from '@simplyprint/jscad-modeling'
 const { cylinder } = primitives
 
 import { hexWidthToRadius }  from './lib/utils.js'

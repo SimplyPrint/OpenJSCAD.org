@@ -1,4 +1,4 @@
-# @jscad/desktop
+# @simplyprint/jscad-desktop
 
 [![GitHub version](https://badge.fury.io/gh/jscad%2Fdesktop.svg)](https://badge.fury.io/gh/jscad%2Fdesktop)
 [![Build Status](https://travis-ci.org/jscad/desktop.svg)](https://travis-ci.org/jscad/desktop)
@@ -39,7 +39,7 @@ A LOT OF THE THINGS HERE CAN AND WILL CHANGE!! This softare is pre-alpha, use at
  ```require(<moduleName>)``` calls to include other functions, shapes etc
  * in your main file, when using common.js modules please use named exports ie :
   ```javascript module.exports = {main, getParameterDefinitions}```
- * VERY IMPORTANT : if you use common.js modules you HAVE to `require()` all the JSCAD packages you use (like `@jscad/csg` etc) **yourself**: if the app detects that you do not have `module.exports`, then it will inject all the JSCAD api itself, with a MAJOR limitation at this time:
+ * VERY IMPORTANT : if you use common.js modules you HAVE to `require()` all the JSCAD packages you use (like `@simplyprint/jscad-csg` etc) **yourself**: if the app detects that you do not have `module.exports`, then it will inject all the JSCAD api itself, with a MAJOR limitation at this time:
   you cannot make require() calls from anything but the root level file, and you do not have access to the API (this will get fixed)
 
  > there will NOT be out of the box support for es6 modules anytime soon, please use a transpiler (Babel.js etc) if you want to use es modules
@@ -78,16 +78,16 @@ A LOT OF THE THINGS HERE CAN AND WILL CHANGE!! This softare is pre-alpha, use at
 
     ```npm install kaosat-dev/jscad-tree-experiments```
 
-  - replace your ```require('@jscad/csg/api')``` calls with ```require('@jscad/vtree').api```
+  - replace your ```require('@simplyprint/jscad-csg/api')``` calls with ```require('@simplyprint/jscad-vtree').api```
 
   - example :
 
     this script 
     ```javascript 
-      const {cylinder} = require('@jscad/csg/api').primitives3d
-      const {color} = require('@jscad/csg/api').color
-      const {difference} = require('@jscad/csg/api').booleanOps
-      const {translate} = require('@jscad/csg/api').transformations
+      const {cylinder} = require('@simplyprint/jscad-csg/api').primitives3d
+      const {color} = require('@simplyprint/jscad-csg/api').color
+      const {difference} = require('@simplyprint/jscad-csg/api').booleanOps
+      const {translate} = require('@simplyprint/jscad-csg/api').transformations
 
       module.exports = function assemblyMount (params) {
         const {plateThickness, plateOffset, assemblyMountDia, assemblyMountBoltDia} = params
@@ -103,10 +103,10 @@ A LOT OF THE THINGS HERE CAN AND WILL CHANGE!! This softare is pre-alpha, use at
 
     ```javascript
 
-      const {cylinder} = require('@jscad/vtree').api.primitives3d
-      const {color} = require('@jscad/vtree').api.color
-      const {difference} = require('@jscad/vtree').api.booleanOps
-      const {translate} = require('@jscad/vtree').api.transformations
+      const {cylinder} = require('@simplyprint/jscad-vtree').api.primitives3d
+      const {color} = require('@simplyprint/jscad-vtree').api.color
+      const {difference} = require('@simplyprint/jscad-vtree').api.booleanOps
+      const {translate} = require('@simplyprint/jscad-vtree').api.transformations
 
       module.exports = function assemblyMount (params) {
         const {plateThickness, plateOffset, assemblyMountDia, assemblyMountBoltDia} = params

@@ -7,7 +7,7 @@ import { countOf } from '../../test/helpers/countOf.js'
 
 import { deserialize } from '../src/index.js'
 
-const samplesPath = '../../../node_modules/@jscad/sample-files'
+const samplesPath = '../../../node_modules/@simplyprint/jscad-sample-files'
 
 test('deserialize simple amf file to jscad script', (t) => {
   const inputPath = path.resolve(samplesPath, 'amf/Amf_Cube.amf')

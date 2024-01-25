@@ -5,7 +5,7 @@
  * @module modeling/geometries/geom2
  *
  * @example
- * import { geometries } from '@jscad/modeling'
+ * import { geometries } from '@simplyprint/jscad-modeling'
  * let myShape = geometries.geom2.create([ [[-1,-1], [1,-1], [1,1], [-1,1]] ])
  */
 export { clone } from './clone.js'

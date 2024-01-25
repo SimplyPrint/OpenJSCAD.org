@@ -2,7 +2,7 @@
  * Utility functions of various sorts in support of IO packages.
  * @module io/utils
  * @example
- * const { BinaryReader } = require('@jscad/io-utils')
+ * const { BinaryReader } = require('@simplyprint/jscad-io-utils')
  */
 export { convertToBlob } from './convertToBlob.js'
 export { makeBlob } from './makeBlob.js'

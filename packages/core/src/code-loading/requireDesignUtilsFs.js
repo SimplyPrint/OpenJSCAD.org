@@ -1,6 +1,6 @@
 import path from 'path'
 
-import { toArray } from '@jscad/array-utils'
+import { toArray } from '@simplyprint/jscad-array-utils'
 
 // NOTE/ path.parse is NOT included by browserify & co , hence this function ...
 // https://github.com/substack/path-browserify/pull/3

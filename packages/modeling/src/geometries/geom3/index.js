@@ -4,7 +4,7 @@
  * @module modeling/geometries/geom3
  *
  * @example
- * import { geometries } from '@jscad/modeling'
+ * import { geometries } from '@simplyprint/jscad-modeling'
  * const myShape = geometries.geom3.fromPoints([
  *   [[-1,-1,-1], [-1,-1,1], [-1,1,1], [-1,1,-1]],
  *   [[1,-1,-1], [1,1,-1], [1,1,1], [1,-1,1]],

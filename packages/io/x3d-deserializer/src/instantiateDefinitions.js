@@ -1,4 +1,4 @@
-import { colorize, transform } from '@jscad/modeling'
+import { colorize, transform } from '@simplyprint/jscad-modeling'
 
 import { createTransform } from './createTransform.js'
 

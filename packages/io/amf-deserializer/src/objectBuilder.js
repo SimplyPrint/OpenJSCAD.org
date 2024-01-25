@@ -1,4 +1,4 @@
-import { geom3, poly3, vec3 } from '@jscad/modeling'
+import { geom3, poly3, vec3 } from '@simplyprint/jscad-modeling'
 
 let lastmaterial
 

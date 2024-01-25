@@ -3,7 +3,7 @@
  * shapes by a fixed distance.
  * @module modeling/offsets
  * @example
- * import { offset } from '@jscad/modeling'
+ * import { offset } from '@simplyprint/jscad-modeling'
  */
 export { offset } from './offset.js'
 export { offsetFromPoints } from './offsetFromPoints.js'

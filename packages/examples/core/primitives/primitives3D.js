@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const jscad = require('@jscad/modeling')
+const jscad = require('@simplyprint/jscad-modeling')
 const { cube, cuboid, cylinder, cylinderElliptic, ellipsoid, geodesicSphere, roundedCuboid, roundedCylinder, sphere, torus } = jscad.primitives
 const { translate } = jscad.transforms
 

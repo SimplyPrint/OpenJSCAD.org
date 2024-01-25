@@ -1,6 +1,6 @@
 import { prepareRender, drawCommands, cameras, entitiesFromSolids } from './src/index.js'
 
-import { colors, primitives, booleans } from '@jscad/modeling'
+import { colors, primitives, booleans } from '@simplyprint/jscad-modeling'
 
 // setup demo solids data
 const demoSolids = (parameters) => {

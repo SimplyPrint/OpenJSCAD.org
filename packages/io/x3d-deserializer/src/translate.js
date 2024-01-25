@@ -56,7 +56,7 @@ const codify = (x3d, data) => {
 // Units : ${length.name} (${length.factor})
 // Angles : ${angle.name} (${angle.factor})
 
-import * from '@jscad/modeling'
+import * from '@simplyprint/jscad-modeling'
 
 export const main = () => {
   let options = {}

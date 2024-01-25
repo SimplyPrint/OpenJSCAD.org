@@ -24,7 +24,7 @@
 import fs from 'fs'
 import JSZip from 'jszip'
 
-import { supportedFormats } from '@jscad/io'
+import { supportedFormats } from '@simplyprint/jscad-io'
 
 import { generateOutputData } from './src/generateOutputData.js'
 import { determineOutputNameAndFormat } from './src/determineOutputNameAndFormat.js'

@@ -1,4 +1,4 @@
-import { extrudeFromSlices, geom2, mat4, poly2, slice, vec3 } from '@jscad/modeling'
+import { extrudeFromSlices, geom2, mat4, poly2, slice, vec3 } from '@simplyprint/jscad-modeling'
 
 const calculateYaxes = (spine) => {
   const slength = spine.length

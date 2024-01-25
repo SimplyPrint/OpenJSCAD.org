@@ -1,4 +1,4 @@
-import { geom2, geom3, path2 } from '@jscad/modeling'
+import { geom2, geom3, path2 } from '@simplyprint/jscad-modeling'
 
 // handled format descriptions
 // note: order is important as regular expressions are created from extensions

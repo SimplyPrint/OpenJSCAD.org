@@ -4,7 +4,7 @@
  * @module modeling/geometries/poly2
  *
  * @example
- * import { geometries } from '@jscad/modeling'
+ * import { geometries } from '@simplyprint/jscad-modeling'
  * const p1 = geometries.poly2.create([[0,0], [4,0], [4,3]])
  */
 export { arePointsInside } from './arePointsInside.js'

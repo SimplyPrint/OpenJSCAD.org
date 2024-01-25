@@ -1,4 +1,4 @@
-import { geom3, poly3 } from '@jscad/modeling'
+import { geom3, poly3 } from '@simplyprint/jscad-modeling'
 
 // objects must be an array of 3D geomertries (with polygons)
 export const serializeText = (objects, options) => {

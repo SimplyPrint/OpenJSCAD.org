@@ -1,4 +1,4 @@
-const { getFileExtensionFromString } = require('@jscad/core').utils
+const { getFileExtensionFromString } = require('@simplyprint/jscad-core').utils
 
 const callbackToObservable = require('../../most-utils/callbackToObservable')
 const makeLogger = require('../../utils/logger')

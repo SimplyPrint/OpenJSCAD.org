@@ -1,4 +1,4 @@
-import { colorize, line } from '@jscad/modeling'
+import { colorize, line } from '@simplyprint/jscad-modeling'
 
 import { createColors, findNode } from './translateHelpers.js'
 import { x3dTypes } from './objects.js'

@@ -1,4 +1,4 @@
-import { mat4 } from '@jscad/modeling'
+import { mat4 } from '@simplyprint/jscad-modeling'
 
 import { parse } from './parse.js'
 

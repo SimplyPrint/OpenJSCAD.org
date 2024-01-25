@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const jscad = require('@jscad/modeling')
+const jscad = require('@simplyprint/jscad-modeling')
 const { circle, rectangle } = jscad.primitives
 const { translate } = jscad.transforms
 const { hull, hullChain } = jscad.hulls

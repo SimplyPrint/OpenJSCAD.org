@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/io-utils",
+  "name": "@simplyprint/jscad-io-utils",
   "version": "3.0.0-alpha.0",
   "description": "Utilities for JSCAD IO Packages",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "main": "src/index.js",
   "scripts": {
@@ -34,7 +38,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "@jscad/modeling": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-modeling": "workspace:3.0.0-alpha.0",
     "ava": "^4.3.3",
     "c8": "^8.0.0"
   },

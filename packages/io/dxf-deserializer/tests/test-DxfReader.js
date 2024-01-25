@@ -5,7 +5,7 @@ import test from 'ava'
 
 import { reader } from '../src/DxfReader.js'
 
-const samplesPath = '../../../node_modules/@jscad/sample-files'
+const samplesPath = '../../../node_modules/@simplyprint/jscad-sample-files'
 
 //
 // Test suite for DXF reader

@@ -16,7 +16,7 @@ const version = '[VI]{version}[/VI]' // version is injected by rollup
  * Deserializer of DXF data to JSCAD geometries.
  * @module io/dxf-deserializer
  * @example
- * const { deserialize, extension } = require('@jscad/dxf-deserializer')
+ * const { deserialize, extension } = require('@simplyprint/jscad-dxf-deserializer')
  */
 
 const handleError = (reader, error) => {

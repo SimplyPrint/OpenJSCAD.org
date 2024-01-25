@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/cli",
+  "name": "@simplyprint/jscad-cli",
   "version": "3.0.0-alpha.0",
   "description": "Command Line Interface (CLI) for JSCAD",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "type": "module",
   "bin": {
     "jscad": "./cli.js"
@@ -36,11 +40,11 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@jscad/array-utils": "workspace:3.0.0-alpha.0",
-    "@jscad/core": "workspace:3.0.0-alpha.0",
-    "@jscad/io": "workspace:3.0.0-alpha.0",
-    "@jscad/io-utils": "workspace:3.0.0-alpha.0",
-    "@jscad/modeling": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-array-utils": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-core": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-io": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-io-utils": "workspace:3.0.0-alpha.0",
+    "@simplyprint/jscad-modeling": "workspace:3.0.0-alpha.0",
     "jszip": "^3.10.1"
   },
   "devDependencies": {

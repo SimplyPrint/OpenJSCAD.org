@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const jscad = require('@jscad/modeling')
+const jscad = require('@simplyprint/jscad-modeling')
 const { union } = jscad.booleans
 const { extrudeLinear } = jscad.extrusions
 const { hullChain } = jscad.hulls

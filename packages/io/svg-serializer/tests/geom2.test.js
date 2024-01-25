@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { center, colorize, geom2, rectangle } from '@jscad/modeling'
+import { center, colorize, geom2, rectangle } from '@simplyprint/jscad-modeling'
 
 import { serialize } from '../src/index.js'
 

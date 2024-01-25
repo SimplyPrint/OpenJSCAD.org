@@ -32,7 +32,7 @@ The following functions are not implemented in JSCAD, and contributions are welc
 ## Install
 
 ```
-npm install @jscad/openscad-openjscad-translator
+npm install @simplyprint/jscad-openscad-openjscad-translator
 ```
 
 >NOTE: for now we need to use a temporary build of the sylvester (node-sylvester)
@@ -44,7 +44,7 @@ see : [here](https://github.com/NaturalNode/node-sylvester/issues/9) and [here](
 ### Node
 
 ```javascript
-  var parser = require('@jscad/openscad-openjscad-translator')
+  var parser = require('@simplyprint/jscad-openscad-openjscad-translator')
   var fs = require('fs')
 
   var openSCADText = fs.readFileSync("test.scad", "UTF8")

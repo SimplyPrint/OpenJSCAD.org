@@ -4,7 +4,7 @@
  * @module modeling/geometries/poly3
  *
  * @example
- * import { geometries } from '@jscad/modeling'
+ * import { geometries } from '@simplyprint/jscad-modeling'
  * const polygon = geometries.poly3.create([[0,0,0], [4,0,0], [4,3,12]])
  */
 export { clone } from './clone.js'

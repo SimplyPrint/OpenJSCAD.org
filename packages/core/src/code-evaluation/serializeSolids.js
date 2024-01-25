@@ -1,4 +1,4 @@
-import { geom2, geom3, path2 } from '@jscad/modeling'
+import { geom2, geom3, path2 } from '@simplyprint/jscad-modeling'
 
 /*
  * Serialize the given solids/objects into web worker message content.

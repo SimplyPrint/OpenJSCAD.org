@@ -1,4 +1,4 @@
-import { hexToRgb, mat4 } from '@jscad/modeling'
+import { hexToRgb, mat4 } from '@simplyprint/jscad-modeling'
 
 import saxes from 'saxes'
 

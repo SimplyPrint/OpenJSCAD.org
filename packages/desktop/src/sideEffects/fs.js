@@ -5,7 +5,7 @@ const callBackToStream = require('../utils/observable-utils/callbackToObservable
 
 const requireUncached = require('../core/code-loading/requireUncached')
 const resolveDependencies = require('../core/code-loading/resolveDependencies')
-const { flatten } = require('@jscad/array-utils')
+const { flatten } = require('@simplyprint/jscad-array-utils')
 
 const removeWatchers = (watchers) => {
   watchers.map((watcher) => {

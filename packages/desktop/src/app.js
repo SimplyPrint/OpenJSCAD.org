@@ -1,7 +1,7 @@
 const most = require('most')
 const { proxy } = require('most-proxy')
 const { makeState } = require('./state')
-const makeCsgViewer = require('@jscad/csg-viewer')
+const makeCsgViewer = require('@simplyprint/jscad-csg-viewer')
 let csgViewer
 
 // file system side effect
@@ -12,18 +12,18 @@ const electronStore = require('./sideEffects/electronStore')()
 const appUpdates = require('./sideEffects/appUpdates')(require('../package.json'))
 
 // all the side effects : ie , input/outputs
-const titleBar = require('@jscad/core/sideEffects/titleBar')()
+const titleBar = require('@simplyprint/jscad-core/sideEffects/titleBar')()
 // drag & drop side effect
-const dragDrop = require('@jscad/core/sideEffects/dragDrop')()
+const dragDrop = require('@simplyprint/jscad-core/sideEffects/dragDrop')()
 // dom side effect
-const dom = require('@jscad/core/sideEffects/dom')()
+const dom = require('@simplyprint/jscad-core/sideEffects/dom')()
 // worker side effect
-const makeWorkerEffect = require('@jscad/core/sideEffects/worker')
+const makeWorkerEffect = require('@simplyprint/jscad-core/sideEffects/worker')
 
 // internationalization side effect
 const path = require('path')
 const localesPath = path.join(__dirname, '..', 'locales')
-const i18n = require('@jscad/core/sideEffects/i18n')({ localesPath })
+const i18n = require('@simplyprint/jscad-core/sideEffects/i18n')({ localesPath })
 // web workers
 const solidWorker = makeWorkerEffect('src/core/code-evaluation/rebuildSolidsWorker.js')
 // generic design parameter handling
@@ -150,7 +150,7 @@ solidWorker.sink(
       return undefined
     }
     console.log('design stuff', design)
-    const applyParameterDefinitions = require('@jscad/core/parameters/applyParameterDefinitions')
+    const applyParameterDefinitions = require('@simplyprint/jscad-core/parameters/applyParameterDefinitions')
     paramValues = paramValues || design.paramValues // this ensures the last, manually modified params have upper hand
     paramValues = paramValues ? applyParameterDefinitions(paramValues, design.paramDefinitions) : paramValues
     if (!instantUpdate && origin === 'instantUpdate') {

@@ -9,7 +9,7 @@
  * @licence MIT License
  */
 
-const jscad = require('@jscad/modeling')
+const jscad = require('@simplyprint/jscad-modeling')
 const { cuboid } = jscad.primitives
 const { intersect } = jscad.booleans
 const { rotateX, rotateZ, scale } = jscad.transforms

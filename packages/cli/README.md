@@ -1,9 +1,9 @@
-# @jscad/cli : JSCAD Command Line Interface (CLI)
+# @simplyprint/jscad-cli : JSCAD Command Line Interface (CLI)
 
 > This is the Command Line Interface (CLI) application for creating designs using [Node.js](https://nodejs.org).
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fcli.svg)](https://www.npmjs.com/package/@jscad/cli)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/cli)](https://www.npmjs.com/package/@jscad/cli)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fcli.svg)](https://www.npmjs.com/package/@simplyprint/jscad-cli)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-cli)](https://www.npmjs.com/package/@simplyprint/jscad-cli)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -36,7 +36,7 @@ The JSCAD project always develops with the latest LTS releases, so install these
 
 The CLI can be installed for general use using NPM.
 ```
-npm install -g @jscad/cli
+npm install -g @simplyprint/jscad-cli
 ```
 Once installed, the CLI can be invoked using
 ```
@@ -49,7 +49,7 @@ jscad
 If a general installation is not possible or desired, then installation as part of a project is possible.
 ```
 cd myproject
-npm install -D @jscad/cli
+npm install -D @simplyprint/jscad-cli
 ```
 
 This will add the CLI package as a development dependency. The CLI can be invoked using
@@ -108,12 +108,12 @@ npm init
 ```
 Then add both the examples and the CLI to the project.
 ```
-npm install @jscad/examples
-npm install @jscad/cli
+npm install @simplyprint/jscad-examples
+npm install @simplyprint/jscad-cli
 ```
 And finally, make the examples local to the project.
 ```
-ln -s node_modules/@jscad/examples ./examples
+ln -s node_modules/@simplyprint/jscad-examples ./examples
 ```
 The examples are just single file designs, or multiple file projects.
 ```

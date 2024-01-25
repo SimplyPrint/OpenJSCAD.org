@@ -2,12 +2,12 @@
  * Serializer of JSCAD geometries to STL mesh.
  * @module io/stl-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/stl-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-stl-serializer')
  */
 
-import { generalize, geom3 } from '@jscad/modeling'
+import { generalize, geom3 } from '@simplyprint/jscad-modeling'
 
-import { flatten, toArray } from '@jscad/array-utils'
+import { flatten, toArray } from '@simplyprint/jscad-array-utils'
 
 import { serializeBinary } from './serializeBinary.js'
 import { serializeText } from './serializeText.js'

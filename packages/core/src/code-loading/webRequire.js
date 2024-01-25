@@ -3,7 +3,7 @@ import { createRequire } from 'module'
 
 import stripBom from 'strip-bom'
 
-import * as jscadModule from '@jscad/modeling'
+import * as jscadModule from '@simplyprint/jscad-modeling'
 
 import { getFileExtensionFromString } from '../utils/getFileExtensionFromString.js'
 import { combineParameterDefinitions, getParameterDefinitionsFromSource } from '../parameters/getParameterDefinitionsFromSource.js'
@@ -52,7 +52,7 @@ const registerJsonExtension = (fs, _require) => {
  */
 export const makeWebRequire = (filesAndFolders, options) => {
   const defaults = {
-    apiMainPath: '@jscad/modeling',
+    apiMainPath: '@simplyprint/jscad-modeling',
     fakeFs: null
   }
   const { apiMainPath, fakeFs } = Object.assign({}, defaults, options)
@@ -65,20 +65,20 @@ export const makeWebRequire = (filesAndFolders, options) => {
 
   const { makeFakeFs } = fsModule
 
-  // FIXME const apiModule = apiMainPath === '@jscad/modeling' ? jscadModule : require(apiMainPath)
-  const apiModule = apiMainPath === '@jscad/modeling' ? jscadModule : import(apiMainPath)
+  // FIXME const apiModule = apiMainPath === '@simplyprint/jscad-modeling' ? jscadModule : require(apiMainPath)
+  const apiModule = apiMainPath === '@simplyprint/jscad-modeling' ? jscadModule : import(apiMainPath)
   // const fsModule = fakeFs ? fakeFs : makeFakeFs
 
   // preset core modules
   // FIXME this list of modules should be an option, replacing apiMainPath
   const coreModules = {
-    // '@jscad/io': {
-    //   exports: require('@jscad/io')
+    // '@simplyprint/jscad-io': {
+    //   exports: require('@simplyprint/jscad-io')
     // },
-    // '@jscad/array-utils': {
-    //   exports: require('@jscad/array-utils')
+    // '@simplyprint/jscad-array-utils': {
+    //   exports: require('@simplyprint/jscad-array-utils')
     // },
-    '@jscad/modeling': {
+    '@simplyprint/jscad-modeling': {
       exports: apiModule
     },
     // expose the fake fs module

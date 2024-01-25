@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const jscad = require('@jscad/modeling')
+const jscad = require('@simplyprint/jscad-modeling')
 
 const { subtract, union } = jscad.booleans
 const { colorize, hexToRgb } = jscad.colors

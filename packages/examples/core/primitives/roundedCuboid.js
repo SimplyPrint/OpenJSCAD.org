@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const { cuboid, roundedCuboid } = require('@jscad/modeling').primitives
+const { cuboid, roundedCuboid } = require('@simplyprint/jscad-modeling').primitives
 
 const getParameterDefinitions = () => [
   { name: 'width', type: 'float', default: 10, caption: 'Width:' },

@@ -1,6 +1,6 @@
-import { polyhedron, vec3 } from '@jscad/modeling'
+import { polyhedron, vec3 } from '@simplyprint/jscad-modeling'
 
-import { BinaryReader } from '@jscad/io-utils'
+import { BinaryReader } from '@simplyprint/jscad-io-utils'
 
 const pkgversion = '[VI]{version}[/VI]' // version is injected by rollup
 
@@ -16,7 +16,7 @@ const pkgversion = '[VI]{version}[/VI]' // version is injected by rollup
  * Deserializer of STL data to JSCAD geometries.
  * @module io/stl-deserializer
  * @example
- * const { deserializer, extension } = require('@jscad/stl-deserializer')
+ * const { deserializer, extension } = require('@simplyprint/jscad-stl-deserializer')
  */
 
 /**
@@ -116,7 +116,7 @@ const formatAsJscad = (data, addMetaData, version, filename) => {
   //
   `
   }
-  code += `import * from '@jscad/modeling'\n`
+  code += `import * from '@simplyprint/jscad-modeling'\n`
   code += data.join('\n')
   code += `
 export const main = () => {

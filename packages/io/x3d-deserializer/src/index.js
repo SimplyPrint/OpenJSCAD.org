@@ -10,7 +10,7 @@
  * @see {@link https://github.com/jscad/OpenJSCAD.org/blob/master/packages/io/x3d-deserializer/README.md|README} for supported conversion of X3D entities.
  * @module io/x3d-deserializer
  * @example
- * const { deserializer, extension } = require('@jscad/x3d-deserializer')
+ * const { deserializer, extension } = require('@simplyprint/jscad-x3d-deserializer')
  */
 
 import { translate } from './translate.js'

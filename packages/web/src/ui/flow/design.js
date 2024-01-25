@@ -2,7 +2,7 @@ const most = require('most')
 
 const { delayFromObservable, holdUntil, withLatestFrom } = require('../../most-utils')
 
-const { getParameterValuesFromUIControls } = require('@jscad/core').parameters
+const { getParameterValuesFromUIControls } = require('@simplyprint/jscad-core').parameters
 
 const { fetchUriParams, getAllUriParams } = require('../../utils/urlUtils')
 

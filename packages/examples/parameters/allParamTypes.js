@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const { primitives } = require('@jscad/modeling')
+const { primitives } = require('@simplyprint/jscad-modeling')
 
 const values = [3, 4, 5, 6]
 const captions = ['three', 'four', 'five', 'six']

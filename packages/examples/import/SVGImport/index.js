@@ -8,9 +8,9 @@
  * @licence MIT License
  */
 
-const { translate } = require('@jscad/modeling').transforms
-const { extrudeLinear } = require('@jscad/modeling').extrusions
-const { polygon } = require('@jscad/modeling').primitives
+const { translate } = require('@simplyprint/jscad-modeling').transforms
+const { extrudeLinear } = require('@simplyprint/jscad-modeling').extrusions
+const { polygon } = require('@simplyprint/jscad-modeling').primitives
 
 // Load the SVG files using require
 const panda = require('./babypanda2.svg')

@@ -1,5 +1,5 @@
 
-const { flatten } = require('@jscad/array-utils')
+const { flatten } = require('@simplyprint/jscad-array-utils')
 
 const color = (params, ...objects) => {
   objects = flatten(objects)

@@ -1,8 +1,8 @@
 import gl from 'gl'
 
-import { colors, primitives, booleans } from '@jscad/modeling'
+import { colors, primitives, booleans } from '@simplyprint/jscad-modeling'
 
-import { writeContextToFile } from '@jscad/img-utils'
+import { writeContextToFile } from '@simplyprint/jscad-img-utils'
 
 import { prepareRender, commands, cameras, entitiesFromSolids } from './dist/jscad-regl-renderer.es.js'
 

@@ -1,6 +1,6 @@
 
 const path = require('path')
-const { getDesignEntryPoint, getDesignName } = require('@jscad/core/code-loading/requireDesignUtilsFs')
+const { getDesignEntryPoint, getDesignName } = require('@simplyprint/jscad-core/code-loading/requireDesignUtilsFs')
 const { availableExportFormatsFromSolids, exportFilePathFromFormatAndDesign } = require('../../core/io/exportUtils')
 const packageMetadata = require('../../../package.json')
 

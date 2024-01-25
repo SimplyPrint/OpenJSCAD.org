@@ -2,7 +2,7 @@ import test from 'ava'
 
 import { countOf } from '../../test/helpers/countOf.js'
 
-import { colorize, cube, cuboid, geom3 } from '@jscad/modeling'
+import { colorize, cube, cuboid, geom3 } from '@simplyprint/jscad-modeling'
 
 import { serialize } from '../src/index.js'
 

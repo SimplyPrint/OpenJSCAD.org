@@ -1,9 +1,9 @@
-# @jscad/x3d-serializer
+# @simplyprint/jscad-x3d-serializer
 
 > Serializer of JSCAD geometries to X3D shapes
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fx3d-serializer.svg)](https://www.npmjs.com/package/@jscad/x3d-serializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/x3d-serializer)](https://www.npmjs.com/package/@jscad/x3d-serializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fx3d-serializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-x3d-serializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-x3d-serializer)](https://www.npmjs.com/package/@simplyprint/jscad-x3d-serializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -42,13 +42,13 @@ All shapes are wrapped in a rotation transform to align the positive Z direction
 ## Installation
 
 ```
-npm install @jscad/x3d-serializer
+npm install @simplyprint/jscad-x3d-serializer
 ```
 
 ## Usage
 
 ```javascript
-const x3dSerializer = require('@jscad/x3d-serializer')
+const x3dSerializer = require('@simplyprint/jscad-x3d-serializer')
 
 const rawData = x3dSerializer.serialize({unit: 'inch'}, geometry)
 

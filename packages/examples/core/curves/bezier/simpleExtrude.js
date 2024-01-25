@@ -8,7 +8,7 @@
  * @licence MIT License
  */
 
-const jscad = require('@jscad/modeling')
+const jscad = require('@simplyprint/jscad-modeling')
 const { maths, extrusions } = jscad
 const { bezier } = jscad.curves
 const { slice } = extrusions

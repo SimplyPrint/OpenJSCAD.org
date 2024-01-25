@@ -1,4 +1,4 @@
-import { arc, circle, ellipse, geom2, geom3, mat4, line, path2, poly3, vec2, vec3 } from '@jscad/modeling'
+import { arc, circle, ellipse, geom2, geom3, mat4, line, path2, poly3, vec2, vec3 } from '@simplyprint/jscad-modeling'
 
 import { getColor, getColorNumber } from './helpers.js'
 

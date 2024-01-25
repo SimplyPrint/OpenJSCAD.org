@@ -1,4 +1,4 @@
-import type { Geom2 } from "@jscad/modeling/src/geometries/types";
+import type { Geom2 } from "@simplyprint/jscad-modeling/src/geometries/types";
 
 interface Options {
   addMetaData?: boolean = true;

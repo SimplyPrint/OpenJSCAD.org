@@ -1,9 +1,9 @@
-## @jscad/dxf-deserializer
+## @simplyprint/jscad-dxf-deserializer
 
 > Deserializer of DXF data to JSCAD scripts or geometries
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fdxf-deserializer.svg)](https://www.npmjs.com/package/@jscad/dxf-deserializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/dxf-deserializer)](https://www.npmjs.com/package/@jscad/dxf-deserializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fdxf-deserializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-dxf-deserializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-dxf-deserializer)](https://www.npmjs.com/package/@simplyprint/jscad-dxf-deserializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -57,13 +57,13 @@ Finally, there are many applications that can save to DXF formats. All testing i
 ## Installation
 
 ```
-npm install @jscad/dxf-deserializer
+npm install @simplyprint/jscad-dxf-deserializer
 ```
 
 ## Usage
 
 ```javascript
-const dxfDeserializer = require('@jscad/dxf-deserializer')
+const dxfDeserializer = require('@simplyprint/jscad-dxf-deserializer')
 
 const rawData = fs.readFileSync('PATH/TO/file.dxf')
 const jscadCode = dxfDeserializer.deserialize(rawData, 'file.dxf', {output: 'jscad'})

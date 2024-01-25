@@ -4,7 +4,7 @@
  * In all cases, the function returns the results, and never changes the original shapes.
  * @module modeling/booleans
  * @example
- * import { intersect, scission, subtract, union } from '@jscad/modeling'
+ * import { intersect, scission, subtract, union } from '@simplyprint/jscad-modeling'
  */
 export { intersect } from './intersect.js'
 export { scission } from './scission.js'

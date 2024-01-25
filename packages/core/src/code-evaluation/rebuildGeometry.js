@@ -29,7 +29,7 @@ import { applyParameterDefinitions } from '../parameters/index.js'
 export const rebuildGeometry = (data, callback) => {
   const defaults = {
     mainPath: '',
-    apiMainPath: '@jscad/modeling',
+    apiMainPath: '@simplyprint/jscad-modeling',
     serialize: false,
     lookup: null,
     lookupCounts: null,

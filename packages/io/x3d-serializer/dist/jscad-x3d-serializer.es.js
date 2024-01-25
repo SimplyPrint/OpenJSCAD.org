@@ -1,12 +1,12 @@
 /**
  * X3D Serializer for JSCAD
- * @module @jscad/x3d-serializer
+ * @module @simplyprint/jscad-x3d-serializer
  * @version 3.0.0-alpha.0
  * @license MIT
  */
 /**
  * Constructive Solid Geometry (CSG) Library for JSCAD
- * @module @jscad/modeling
+ * @module @simplyprint/jscad-modeling
  * @version 3.0.0-alpha.0
  * @license MIT
  */

@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [3.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.6...@jscad/3mf-serializer@3.0.0-alpha.0) (2023-10-09)
+# [3.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.6...@simplyprint/jscad-3mf-serializer@3.0.0-alpha.0) (2023-10-09)
 
 ### Bug Fixes
 
@@ -13,41 +13,41 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** reworked exports to expose a flattened API ([8235238](https://github.com/jscad/OpenJSCAD.org/commit/8235238ad63d063f1e501478cae1208deb130a9c))
 
-## [2.1.9](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.8...@jscad/3mf-serializer@2.1.9) (2023-06-27)
+## [2.1.9](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.8...@simplyprint/jscad-3mf-serializer@2.1.9) (2023-06-27)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.8](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.7...@jscad/3mf-serializer@2.1.8) (2023-04-30)
+## [2.1.8](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.7...@simplyprint/jscad-3mf-serializer@2.1.8) (2023-04-30)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.6...@jscad/3mf-serializer@2.1.7) (2022-11-26)
+## [2.1.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.6...@simplyprint/jscad-3mf-serializer@2.1.7) (2022-11-26)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.5...@jscad/3mf-serializer@2.1.6) (2022-08-21)
+## [2.1.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.5...@simplyprint/jscad-3mf-serializer@2.1.6) (2022-08-21)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.4...@jscad/3mf-serializer@2.1.5) (2022-07-17)
+## [2.1.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.4...@simplyprint/jscad-3mf-serializer@2.1.5) (2022-07-17)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.3...@jscad/3mf-serializer@2.1.4) (2022-06-12)
+## [2.1.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.3...@simplyprint/jscad-3mf-serializer@2.1.4) (2022-06-12)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.2...@jscad/3mf-serializer@2.1.3) (2022-05-15)
+## [2.1.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.2...@simplyprint/jscad-3mf-serializer@2.1.3) (2022-05-15)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.1...@jscad/3mf-serializer@2.1.2) (2022-04-24)
+## [2.1.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.1...@simplyprint/jscad-3mf-serializer@2.1.2) (2022-04-24)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
-## [2.1.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/3mf-serializer@2.1.0...@jscad/3mf-serializer@2.1.1) (2022-04-03)
+## [2.1.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-3mf-serializer@2.1.0...@simplyprint/jscad-3mf-serializer@2.1.1) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/3mf-serializer
+**Note:** Version bump only for package @simplyprint/jscad-3mf-serializer
 
 # 2.1.0 (2022-04-03)
 

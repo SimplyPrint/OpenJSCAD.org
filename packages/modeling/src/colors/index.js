@@ -3,7 +3,7 @@
  * In all cases, the function returns the results, and never changes the original shapes.
  * @module modeling/colors
  * @example
- * import { colors } from '@jscad/modeling'
+ * import { colors } from '@simplyprint/jscad-modeling'
  * const { colorize, cssColors } = colors
  */
 export { colorNameToRgb } from './colorNameToRgb.js'

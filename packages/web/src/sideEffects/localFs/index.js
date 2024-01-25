@@ -1,4 +1,4 @@
-const { walkFileTree } = require('@jscad/core').web
+const { walkFileTree } = require('@simplyprint/jscad-core').web
 
 const callbackToObservable = require('../../most-utils/callbackToObservable')
 const { changedFiles, flattenFiles } = require('./utils')

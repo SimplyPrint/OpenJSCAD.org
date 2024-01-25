@@ -9,7 +9,7 @@ test.beforeEach((t) => {
 })
 
 test('webRequire: should support require, from a single file', (t) => {
-  const apiMainPath = '@jscad/modeling'
+  const apiMainPath = '@simplyprint/jscad-modeling'
 
   let requireFn = makeWebRequire(singleFileJs, { apiMainPath })
   let designRootModule = requireFn(singleFileJs[0].fullPath)
@@ -32,7 +32,7 @@ test('webRequire: should support require, from a single file', (t) => {
 })
 
 test('webRequire: should support require, from a directory with index.js', (t) => {
-  const apiMainPath = '@jscad/modeling'
+  const apiMainPath = '@simplyprint/jscad-modeling'
 
   const requireFn = makeWebRequire(directoryWithIndexJs, { apiMainPath })
   const designRootModule = requireFn('/project')
@@ -41,7 +41,7 @@ test('webRequire: should support require, from a directory with index.js', (t) =
 })
 
 test('webRequire: should support require, from a directory with index.json', (t) => {
-  const apiMainPath = '@jscad/modeling'
+  const apiMainPath = '@simplyprint/jscad-modeling'
 
   const requireFn = makeWebRequire(directoryWithIndexJson, { apiMainPath })
   const designRootModule = requireFn('/project')
@@ -51,7 +51,7 @@ test('webRequire: should support require, from a directory with index.json', (t)
 })
 
 test('webRequire: should support require, from a directory with project.json', (t) => {
-  const apiMainPath = '@jscad/modeling'
+  const apiMainPath = '@simplyprint/jscad-modeling'
 
   const requireFn = makeWebRequire(directoryWithPackageJson, { apiMainPath })
   const designRootModule = requireFn('/project')
@@ -61,7 +61,7 @@ test('webRequire: should support require, from a directory with project.json', (
 })
 
 test('webRequire: should support require, from a directory with dependent files', (t) => {
-  const apiMainPath = '@jscad/modeling'
+  const apiMainPath = '@simplyprint/jscad-modeling'
 
   const fakeFs = makeFakeFs(directoryWithDependencies)
   const requireFn = makeWebRequire(directoryWithDependencies, { apiMainPath })
@@ -83,7 +83,7 @@ test('webRequire: should allow using require.extensions like the native node req
   }
 
   const mainPath = '/logo.jscad'
-  const apiMainPath = '@jscad/modeling'
+  const apiMainPath = '@simplyprint/jscad-modeling'
   const filesAndFolders = [
     {
       ext: 'jscad',
@@ -108,7 +108,7 @@ test('webRequire: should allow using require.extensions like the native node req
 
 test.skip('webRequire: should allow using require.extensions like the native node require (parser)', (t) => {
   const registerStlExtension = (fs, _require) => {
-    const { deserializers } = require('@jscad/io')
+    const { deserializers } = require('@simplyprint/jscad-io')
     const deserializer = deserializers.stl
     _require.extensions['.stl'] = (module, filename) => {
       const content = fs.readFileSync(filename, 'utf8')
@@ -118,7 +118,7 @@ test.skip('webRequire: should allow using require.extensions like the native nod
   }
 
   const mainPath = '/examples/logo.js'
-  const apiMainPath = '@jscad/modeling'
+  const apiMainPath = '@simplyprint/jscad-modeling'
   const filesAndFolders = [
     {
       ext: 'js',
@@ -167,7 +167,7 @@ const singleFileJs = [
     fullPath: '/logo.js',
     name: 'logo.js',
     source: `
-      const { cube } = require('@jscad/modeling')
+      const { cube } = require('@simplyprint/jscad-modeling')
 
       const main = () => {
         return cube()
@@ -275,7 +275,7 @@ const directoryWithDependencies = [
         fullPath: '/project/index.js',
         name: 'index.js',
         source: `
-          const { transforms } = require('@jscad/modeling')
+          const { transforms } = require('@simplyprint/jscad-modeling')
 
           const { version } = require('./version.json')
 
@@ -316,7 +316,7 @@ const directoryWithDependencies = [
         fullPath: '/project/file2.js',
         name: 'file2.js',
         source: `
-          const { cube } = require('@jscad/modeling')
+          const { cube } = require('@simplyprint/jscad-modeling')
 
           const file2 = () => {
             return cube()

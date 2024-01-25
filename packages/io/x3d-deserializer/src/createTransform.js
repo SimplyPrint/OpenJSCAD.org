@@ -1,4 +1,4 @@
-import { mat4, vec3 } from '@jscad/modeling'
+import { mat4, vec3 } from '@simplyprint/jscad-modeling'
 
 export const createTransform = (center, rotation, scale, scaleOrientation, translation) => {
   const matrix = mat4.create()

@@ -1,5 +1,5 @@
-import { flatten } from '@jscad/array-utils'
-import { geom3, polyhedron, transform } from '@jscad/modeling'
+import { flatten } from '@simplyprint/jscad-array-utils'
+import { geom3, polyhedron, transform } from '@simplyprint/jscad-modeling'
 
 import { parseModel } from './model.js'
 

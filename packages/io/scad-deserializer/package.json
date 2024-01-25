@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/scad-deserializer",
+  "name": "@simplyprint/jscad-scad-deserializer",
   "version": "1.0.0",
   "description": "Translates OpenSCAD syntax (http://www.openscad.org/) into OpenJsCAD syntax (http://joostn.github.com/OpenJsCad/).",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "main": "src/parserWrapper.js",
   "private": true,
   "browser": {

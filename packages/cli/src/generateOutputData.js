@@ -2,10 +2,10 @@ import fs from 'fs'
 import path from 'path'
 import { createRequire } from 'module'
 
-import { deserialize, getMimeType, serialize } from '@jscad/io'
-import { convertToBlob } from '@jscad/io-utils'
+import { deserialize, getMimeType, serialize } from '@simplyprint/jscad-io'
+import { convertToBlob } from '@simplyprint/jscad-io-utils'
 
-import { evaluation, io } from '@jscad/core'
+import { evaluation, io } from '@simplyprint/jscad-core'
 
 const { rebuildGeometryCli } = evaluation
 const { registerAllExtensions } = io

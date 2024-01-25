@@ -3,11 +3,11 @@ import path from 'path'
 
 import test from 'ava'
 
-import { geom3 } from '@jscad/modeling'
+import { geom3 } from '@simplyprint/jscad-modeling'
 
 import { deserialize } from '../src/index.js'
 
-const samplesPath = '../../../node_modules/@jscad/sample-files'
+const samplesPath = '../../../node_modules/@simplyprint/jscad-sample-files'
 
 const toArray = (polygons) => polygons.map((p) => p.vertices.map((v) => ([v[0], v[1], v[2]])))
 

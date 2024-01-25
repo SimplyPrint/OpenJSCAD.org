@@ -1,4 +1,4 @@
-const modeling = require('@jscad/modeling') // FIXME: not ideal
+const modeling = require('@simplyprint/jscad-modeling') // FIXME: not ideal
 
 // TODO: we likely need to wrap the api in a function, to handle special cases like measurements in the future
 // const makeModelingApi = ()

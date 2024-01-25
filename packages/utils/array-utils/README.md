@@ -1,9 +1,9 @@
-# @jscad/array-utils
+# @simplyprint/jscad-array-utils
 
 > This package contains utility functions for arrays, which is used throughout the JSCAD project. However, this package can be used independently of the JSCAD project.
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Farray-utils.svg)](https://www.npmjs.com/package/@jscad/array-utils)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/array-utils)](https://www.npmjs.com/package/@jscad/array-utils)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Farray-utils.svg)](https://www.npmjs.com/package/@simplyprint/jscad-array-utils)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-array-utils)](https://www.npmjs.com/package/@simplyprint/jscad-array-utils)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -33,13 +33,13 @@ There is no UI or CLi in this package, only pieces of code ready for re-use.
 This package can be used independently of the JSCAD project.
 
 ```
-npm install @jscad/array-utils
+npm install @simplyprint/jscad-array-utils
 ```
 
 And within JavaScript, access the functions.
 
 ```
-const { flatten, head, nth, toArray } = require('@jscad/array-utils')
+const { flatten, head, nth, toArray } = require('@simplyprint/jscad-array-utils')
 ```
 
 ## Documentation

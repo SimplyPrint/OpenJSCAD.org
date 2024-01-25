@@ -1,9 +1,13 @@
 {
-  "name": "@jscad/examples",
+  "name": "@simplyprint/jscad-examples",
   "version": "2.4.2",
   "description": "Example Files for JSCAD",
-  "homepage": "https://openjscad.xyz/",
-  "repository": "https://github.com/jscad/OpenJSCAD.org",
+  "homepage": "https://simplyprint.io/",
+  "repository": "https://github.com/simplyprint/OpenJSCAD.org",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {},
   "private": true,
   "contributors": [

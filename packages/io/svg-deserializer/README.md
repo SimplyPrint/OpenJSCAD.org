@@ -1,9 +1,9 @@
-# @jscad/svg-deserializer
+# @simplyprint/jscad-svg-deserializer
 
 > Deserializer of SVG data to JSCAD scripts or geometries
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fsvg-deserializer.svg)](https://www.npmjs.com/package/@jscad/svg-deserializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/svg-deserializer)](https://www.npmjs.com/package/@jscad/svg-deserializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fsvg-deserializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-svg-deserializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-svg-deserializer)](https://www.npmjs.com/package/@simplyprint/jscad-svg-deserializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-green.svg)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -30,13 +30,13 @@ This deserializer converts raw SVG formatted data (files) to JSCAD scripts or ge
 ## Installation
 
 ```
-npm install @jscad/svg-deserializer
+npm install @simplyprint/jscad-svg-deserializer
 ```
 
 ## Usage
 
 ```javascript
-const svgDeserializer = require('@jscad/svg-deserializer')
+const svgDeserializer = require('@simplyprint/jscad-svg-deserializer')
 
 const rawData = fs.readFileSync('PATH/TO/file.svg')
 const geometry = svgDeserializer.deserialize({ filename: 'file.svg', output: 'geometry' }, rawData)

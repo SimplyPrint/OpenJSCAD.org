@@ -1,4 +1,4 @@
-import { geom3, poly3 } from '@jscad/modeling'
+import { geom3, poly3 } from '@simplyprint/jscad-modeling'
 
 import { extrudeX3D } from './extrudeX3D.js'
 

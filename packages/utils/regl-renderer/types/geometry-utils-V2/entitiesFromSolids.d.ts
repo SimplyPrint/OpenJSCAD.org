@@ -1,4 +1,4 @@
-import { Geom2, Geom3, Geometry } from '@jscad/modeling/src/geometries/types'
+import { Geom2, Geom3, Geometry } from '@simplyprint/jscad-modeling/src/geometries/types'
 
 export = entitiesFromSolids;
 /**

@@ -1,13 +1,13 @@
-import { toArray } from '@jscad/array-utils'
+import { toArray } from '@simplyprint/jscad-array-utils'
 
-import * as amfSerializer from '@jscad/amf-serializer'
-import * as dxfSerializer from '@jscad/dxf-serializer'
-import * as jsonSerializer from '@jscad/json-serializer'
-import * as objSerializer from '@jscad/obj-serializer'
-import * as stlSerializer from '@jscad/stl-serializer'
-import * as svgSerializer from '@jscad/svg-serializer'
-import * as x3dSerializer from '@jscad/x3d-serializer'
-import * as m3fSerializer from '@jscad/3mf-serializer' // UG javascript doesn't allow names with leading #
+import * as amfSerializer from '@simplyprint/jscad-amf-serializer'
+import * as dxfSerializer from '@simplyprint/jscad-dxf-serializer'
+import * as jsonSerializer from '@simplyprint/jscad-json-serializer'
+import * as objSerializer from '@simplyprint/jscad-obj-serializer'
+import * as stlSerializer from '@simplyprint/jscad-stl-serializer'
+import * as svgSerializer from '@simplyprint/jscad-svg-serializer'
+import * as x3dSerializer from '@simplyprint/jscad-x3d-serializer'
+import * as m3fSerializer from '@simplyprint/jscad-3mf-serializer' // UG javascript doesn't allow names with leading #
 
 import { supportedFormats } from './formats.js'
 

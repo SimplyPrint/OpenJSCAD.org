@@ -1,9 +1,9 @@
-## @jscad/amf-deserializer
+## @simplyprint/jscad-amf-deserializer
 
 > Deserializer of AMF data to JSCAD geometries
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Famf-deserializer.svg)](https://www.npmjs.com/package/@jscad/amf-deserializer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/amf-deserializer)](https://www.npmjs.com/package/@jscad/amf-deserializer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Famf-deserializer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-amf-deserializer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-amf-deserializer)](https://www.npmjs.com/package/@simplyprint/jscad-amf-deserializer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -44,13 +44,13 @@ Also, if the 'USEMTL' (material) matches the name of a CSS3 color then the color
 ## Installation
 
 ```
-npm install @jscad/amf-deserializer
+npm install @simplyprint/jscad-amf-deserializer
 ```
 
 ## Usage
 
 ```javascript
-const amfDeSerializer = require('@jscad/amf-deserializer')
+const amfDeSerializer = require('@simplyprint/jscad-amf-deserializer')
 
 const rawData = fs.readFileSync('PATH/TO/file.amf')
 const jscadScript = amfDeSerializer.deserialize(rawData, 'file.amf', {output: 'jscad'})

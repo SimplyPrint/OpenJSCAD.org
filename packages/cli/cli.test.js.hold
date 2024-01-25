@@ -4,7 +4,7 @@ const path = require('path')
 const { execSync } = require('child_process')
 const fs = require('fs')
 
-const examplesPath = path.resolve('./node_modules/@jscad/examples')
+const examplesPath = path.resolve('./node_modules/@simplyprint/jscad-examples')
 const coreExamplesPath = path.join(examplesPath, 'core')
 const parametersExamplesPath = path.join(examplesPath, 'parameters')
 const variousExamplesPath = path.join(examplesPath, 'various')

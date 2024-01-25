@@ -11,7 +11,7 @@ import {
   rotateX,
   sphere,
   subtract
-} from '@jscad/modeling'
+} from '@simplyprint/jscad-modeling'
 
 import { x3dTypes } from './objects.js'
 import { findNode } from './translateHelpers.js'

@@ -1,9 +1,9 @@
-## @jscad/io
+## @simplyprint/jscad-io
 
 > Input/Output format handling for the JSCAD project.
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fio.svg)](https://www.npmjs.com/package/@jscad/io)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/io)](https://www.npmjs.com/package/@jscad/io)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fio.svg)](https://www.npmjs.com/package/@simplyprint/jscad-io)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-io)](https://www.npmjs.com/package/@simplyprint/jscad-io)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -57,7 +57,7 @@ Following formats are supported as outputs
 ## Installation
 
 ```
-npm install @jscad/io
+npm install @simplyprint/jscad-io
 ```
 
 ## Usage
@@ -65,7 +65,7 @@ npm install @jscad/io
 - As a Node module :
 
 ```
-const io = require('@jscad/io')
+const io = require('@simplyprint/jscad-io')
 ```
 
 ## Contributing

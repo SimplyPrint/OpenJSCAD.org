@@ -1,4 +1,4 @@
-import { Geometry } from '@jscad/modeling/src/geometries/types'
+import { Geometry } from '@simplyprint/jscad-modeling/src/geometries/types'
 
 export namespace controlsProps {
   namespace limits {

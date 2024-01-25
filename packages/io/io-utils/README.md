@@ -1,9 +1,9 @@
-## @jscad/io-utils
+## @simplyprint/jscad-io-utils
 
 > Input/Output handling utilities
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fio-utils.svg)](https://www.npmjs.com/package/@jscad/io-utils)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/io-utils)](https://www.npmjs.com/package/@jscad/io-utils)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fio-utils.svg)](https://www.npmjs.com/package/@simplyprint/jscad-io-utils)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-io-utils)](https://www.npmjs.com/package/@simplyprint/jscad-io-utils)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -34,14 +34,14 @@ a Blob that can also be converted to Node.js buffer
 ## Installation
 
 ```
-npm install @jscad/io-utils
+npm install @simplyprint/jscad-io-utils
 ```
 
 ## Usage
 
 ```javascript
-const {makeBlob} = require('@jscad/io-utils')
-const stlSerializer = require('@jscad/stl-serializer')
+const {makeBlob} = require('@simplyprint/jscad-io-utils')
+const stlSerializer = require('@simplyprint/jscad-stl-serializer')
 
 const rawData = stlSerializer(CSGObject)
 

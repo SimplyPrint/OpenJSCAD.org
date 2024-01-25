@@ -19,7 +19,7 @@ All code released under MIT license
  * @see {@link https://github.com/jscad/OpenJSCAD.org/blob/master/packages/io/amf-deserializer/README.md|README} for supported conversion of AMF objects.
  * @module io/amf-deserializer
  * @example
- * const { deserializer, extension } = require('@jscad/amf-serializer')
+ * const { deserializer, extension } = require('@simplyprint/jscad-amf-serializer')
  */
 
 import { translate } from './translate.js'

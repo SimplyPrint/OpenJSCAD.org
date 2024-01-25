@@ -3,7 +3,7 @@ your designs, so that they can easily adapt to different situations.
 
 ## ParametricBox.js
 ```javascript
-import { primitives, booleans } from  '@jscad/modeling'
+import { primitives, booleans } from  '@simplyprint/jscad-modeling'
 const { cuboid, roundedCuboid } = primitives
 const { subtract } = booleans
 

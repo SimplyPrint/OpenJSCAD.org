@@ -8,8 +8,8 @@
  * @licence MIT License
  */
 
-const { arc, circle, ellipse, line, polygon, rectangle, roundedRectangle, square, star } = require('@jscad/modeling').primitives
-const { translate } = require('@jscad/modeling').transforms
+const { arc, circle, ellipse, line, polygon, rectangle, roundedRectangle, square, star } = require('@simplyprint/jscad-modeling').primitives
+const { translate } = require('@simplyprint/jscad-modeling').transforms
 
 const main = () => {
   const allPrimitives = [

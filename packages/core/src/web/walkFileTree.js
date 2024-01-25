@@ -1,8 +1,8 @@
 import path from 'path'
 
-import { flatten } from '@jscad/array-utils'
+import { flatten } from '@simplyprint/jscad-array-utils'
 
-import { supportedFormats } from '@jscad/io'
+import { supportedFormats } from '@simplyprint/jscad-io'
 
 import { getFileExtensionFromString } from '../utils/index.js'
 

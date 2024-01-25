@@ -2,8 +2,8 @@
 
 > Renderer for JSCAD geometries, both 2D and 3D
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fregl-renderer.svg)](https://www.npmjs.com/package/@jscad/regl-renderer)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/regl-renderer)](https://www.npmjs.com/package/@jscad/regl-renderer)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fregl-renderer.svg)](https://www.npmjs.com/package/@simplyprint/jscad-regl-renderer)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-regl-renderer)](https://www.npmjs.com/package/@simplyprint/jscad-regl-renderer)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)
@@ -28,7 +28,7 @@
 
 This package is published and available for download via [NPM](https://www.npmjs.com/org/jscad)
 ```
-npm install @jscad/regl-renderer
+npm install @simplyprint/jscad-regl-renderer
 ```
 
 In addition this package is hosted at [UNPKG](https://unpkg.com/), and can be imported directly into webpages.

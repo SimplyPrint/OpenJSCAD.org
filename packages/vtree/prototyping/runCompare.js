@@ -1,6 +1,6 @@
 const generate = require('../core/geometry-generator-cached')
 // const decache = require('decache')
-const { toArray } = require('@jscad/array-utils')
+const { toArray } = require('@simplyprint/jscad-array-utils')
 
 const runCompare = (basePath, runs = 10) => {
   console.log('running benchmarks for ' + basePath)

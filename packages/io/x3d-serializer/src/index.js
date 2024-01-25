@@ -1,8 +1,8 @@
-import { generalize, geom2, geom3, path2, poly2, poly3 } from '@jscad/modeling'
+import { generalize, geom2, geom3, path2, poly2, poly3 } from '@simplyprint/jscad-modeling'
 
-import { flatten } from '@jscad/array-utils'
+import { flatten } from '@simplyprint/jscad-array-utils'
 
-import { stringify } from '@jscad/io-utils'
+import { stringify } from '@simplyprint/jscad-io-utils'
 
 /**
  * Serializer of JSCAD geometries to X3D source data (XML).
@@ -16,7 +16,7 @@ import { stringify } from '@jscad/io-utils'
  *
  * @module io/x3d-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/x3d-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-x3d-serializer')
  */
 
 const mimeType = 'model/x3d+xml'

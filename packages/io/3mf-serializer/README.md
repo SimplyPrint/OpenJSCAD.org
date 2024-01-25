@@ -1,4 +1,4 @@
-## @jscad/3mf-serializer
+## @simplyprint/jscad-3mf-serializer
 
 > Serializer of JSCAD geometries to 3MF shapes
 
@@ -25,13 +25,13 @@ In addition, both color and name attributes are converted to 3MF attributes if f
 ## Installation
 
 ```
-npm install @jscad/3mf-serializer
+npm install @simplyprint/jscad-3mf-serializer
 ```
 
 ## Usage
 
 ```javascript
-const { serialize } = require('@jscad/3mf-serializer')
+const { serialize } = require('@simplyprint/jscad-3mf-serializer')
 
 const rawData = serialize({unit: inch}, geometry)
 

@@ -8,9 +8,9 @@
  * @licence MIT License
  */
 
-const { colorize, hslToRgb, colorNameToRgb } = require('@jscad/modeling').colors
-const { cuboid, cylinder } = require('@jscad/modeling').primitives
-const { translate } = require('@jscad/modeling').transforms
+const { colorize, hslToRgb, colorNameToRgb } = require('@simplyprint/jscad-modeling').colors
+const { cuboid, cylinder } = require('@simplyprint/jscad-modeling').primitives
+const { translate } = require('@simplyprint/jscad-modeling').transforms
 
 const main = () => {
   const shapes = []

@@ -1,5 +1,5 @@
 
-const { toArray } = require('@jscad/array-utils')
+const { toArray } = require('@simplyprint/jscad-array-utils')
 
 const getParameterValuesFromUIControls = require('../parameters/getParameterValuesFromUIControls')
 

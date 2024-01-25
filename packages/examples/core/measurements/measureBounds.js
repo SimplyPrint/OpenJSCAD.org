@@ -8,11 +8,11 @@
  * @licence MIT License
  */
 
-const { cuboid } = require('@jscad/modeling').primitives
-const { translate, rotate } = require('@jscad/modeling').transforms
-const { measureBoundingBox } = require('@jscad/modeling').measurements
-const { colorize } = require('@jscad/modeling').colors
-const { subtract } = require('@jscad/modeling').booleans
+const { cuboid } = require('@simplyprint/jscad-modeling').primitives
+const { translate, rotate } = require('@simplyprint/jscad-modeling').transforms
+const { measureBoundingBox } = require('@simplyprint/jscad-modeling').measurements
+const { colorize } = require('@simplyprint/jscad-modeling').colors
+const { subtract } = require('@simplyprint/jscad-modeling').booleans
 
 const getParameterDefinitions = () => [
   { name: 'rotatex', type: 'slider', initial: 0, min: -3.14, max: 3.14, step: 0.01, caption: 'X Rotation:' },

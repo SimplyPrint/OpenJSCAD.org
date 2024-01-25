@@ -1,5 +1,5 @@
-import { flatten, toArray } from '@jscad/array-utils'
-import { generalize, geom3, geom2, path2 } from '@jscad/modeling'
+import { flatten, toArray } from '@simplyprint/jscad-array-utils'
+import { generalize, geom3, geom2, path2 } from '@simplyprint/jscad-modeling'
 
 import { dxfHeaders, dxfClasses, dxfTables, dxfBlocks, dxfObjects } from './autocad_AC2017.js'
 import { colorIndex } from './colorindex2017.js'
@@ -10,7 +10,7 @@ const mimeType = 'image/vnd.dxf'
  * Serializer of JSCAD geometries to DXF entities.
  * @module io/dxf-serializer
  * @example
- * const { serializer, mimeType } = require('@jscad/dxf-serializer')
+ * const { serializer, mimeType } = require('@simplyprint/jscad-dxf-serializer')
  */
 
 /**

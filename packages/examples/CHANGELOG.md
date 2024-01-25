@@ -3,15 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [2.4.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.4.1...@jscad/examples@2.4.2) (2022-07-17)
+## [2.4.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.4.1...@simplyprint/jscad-examples@2.4.2) (2022-07-17)
 
-**Note:** Version bump only for package @jscad/examples
-
-
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 
 
-## [2.4.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.4.0...@jscad/examples@2.4.1) (2022-06-12)
+
+
+## [2.4.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.4.0...@simplyprint/jscad-examples@2.4.1) (2022-06-12)
 
 
 ### Bug Fixes
@@ -22,7 +22,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.4.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.3.4...@jscad/examples@2.4.0) (2022-05-15)
+# [2.4.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.3.4...@simplyprint/jscad-examples@2.4.0) (2022-05-15)
 
 
 ### Features
@@ -33,39 +33,39 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [2.3.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.3.3...@jscad/examples@2.3.4) (2022-04-24)
+## [2.3.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.3.3...@simplyprint/jscad-examples@2.3.4) (2022-04-24)
 
-**Note:** Version bump only for package @jscad/examples
-
-
-
-
-
-## [2.3.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.3.2...@jscad/examples@2.3.3) (2022-04-03)
-
-**Note:** Version bump only for package @jscad/examples
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 
 
 
 
-## [2.3.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.3.1...@jscad/examples@2.3.2) (2022-02-19)
+## [2.3.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.3.2...@simplyprint/jscad-examples@2.3.3) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/examples
-
-
-
-
-
-## [2.3.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.3.0...@jscad/examples@2.3.1) (2021-09-27)
-
-**Note:** Version bump only for package @jscad/examples
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 
 
 
 
-# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.2.0...@jscad/examples@2.3.0) (2021-06-01)
+## [2.3.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.3.1...@simplyprint/jscad-examples@2.3.2) (2022-02-19)
+
+**Note:** Version bump only for package @simplyprint/jscad-examples
+
+
+
+
+
+## [2.3.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.3.0...@simplyprint/jscad-examples@2.3.1) (2021-09-27)
+
+**Note:** Version bump only for package @simplyprint/jscad-examples
+
+
+
+
+
+# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.2.0...@simplyprint/jscad-examples@2.3.0) (2021-06-01)
 
 
 ### Features
@@ -76,7 +76,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.0...@jscad/examples@2.2.0) (2021-05-16)
+# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.0...@simplyprint/jscad-examples@2.2.0) (2021-05-16)
 
 
 ### Bug Fixes
@@ -95,7 +95,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.0...@jscad/examples@2.1.0) (2021-04-15)
+# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.0...@simplyprint/jscad-examples@2.1.0) (2021-04-15)
 
 
 ### Features
@@ -109,15 +109,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.7...@jscad/examples@2.0.0) (2021-04-12)
+# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.7...@simplyprint/jscad-examples@2.0.0) (2021-04-12)
 
-**Note:** Version bump only for package @jscad/examples
-
-
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 
 
-# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.6...@jscad/examples@2.0.0-alpha.7) (2021-03-07)
+
+
+# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.6...@simplyprint/jscad-examples@2.0.0-alpha.7) (2021-03-07)
 
 
 ### Features
@@ -128,7 +128,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.5...@jscad/examples@2.0.0-alpha.6) (2021-02-07)
+# [2.0.0-alpha.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.5...@simplyprint/jscad-examples@2.0.0-alpha.6) (2021-02-07)
 
 
 ### Features
@@ -139,23 +139,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.4...@jscad/examples@2.0.0-alpha.5) (2020-11-07)
+# [2.0.0-alpha.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.4...@simplyprint/jscad-examples@2.0.0-alpha.5) (2020-11-07)
 
-**Note:** Version bump only for package @jscad/examples
-
-
-
-
-
-# [2.0.0-alpha.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.3...@jscad/examples@2.0.0-alpha.4) (2020-10-11)
-
-**Note:** Version bump only for package @jscad/examples
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 
 
 
 
-# [2.0.0-alpha.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.2...@jscad/examples@2.0.0-alpha.3) (2020-09-19)
+# [2.0.0-alpha.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.3...@simplyprint/jscad-examples@2.0.0-alpha.4) (2020-10-11)
+
+**Note:** Version bump only for package @simplyprint/jscad-examples
+
+
+
+
+
+# [2.0.0-alpha.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.2...@simplyprint/jscad-examples@2.0.0-alpha.3) (2020-09-19)
 
 
 ### Features
@@ -166,7 +166,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.1...@jscad/examples@2.0.0-alpha.2) (2020-09-08)
+# [2.0.0-alpha.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.1...@simplyprint/jscad-examples@2.0.0-alpha.2) (2020-09-08)
 
 
 ### Features
@@ -177,15 +177,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [2.0.0-alpha.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@2.0.0-alpha.0...@jscad/examples@2.0.0-alpha.1) (2020-08-19)
+# [2.0.0-alpha.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@2.0.0-alpha.0...@simplyprint/jscad-examples@2.0.0-alpha.1) (2020-08-19)
 
-**Note:** Version bump only for package @jscad/examples
-
-
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 
 
-# [2.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@1.7.2...@jscad/examples@2.0.0-alpha.0) (2020-08-13)
+
+
+# [2.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@1.7.2...@simplyprint/jscad-examples@2.0.0-alpha.0) (2020-08-13)
 
 
 ### Features
@@ -197,23 +197,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 <a name="1.7.2"></a>
-## [1.7.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@1.7.1...@jscad/examples@1.7.2) (2018-05-12)
+## [1.7.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@1.7.1...@simplyprint/jscad-examples@1.7.2) (2018-05-12)
 
 
 
 
-**Note:** Version bump only for package @jscad/examples
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 <a name="1.7.1"></a>
-## [1.7.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@1.7.0...@jscad/examples@1.7.1) (2018-04-07)
+## [1.7.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@1.7.0...@simplyprint/jscad-examples@1.7.1) (2018-04-07)
 
 
 
 
-**Note:** Version bump only for package @jscad/examples
+**Note:** Version bump only for package @simplyprint/jscad-examples
 
 <a name="1.7.0"></a>
-# [1.7.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/examples@1.6.2...@jscad/examples@1.7.0) (2018-03-09)
+# [1.7.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-examples@1.6.2...@simplyprint/jscad-examples@1.7.0) (2018-03-09)
 
 
 ### Features
@@ -229,4 +229,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-**Note:** Version bump only for package @jscad/examples
+**Note:** Version bump only for package @simplyprint/jscad-examples

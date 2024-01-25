@@ -47,7 +47,7 @@ test.beforeEach((t) => {
 // the script should produce ALL geometry types
 const createJscad = (id, multipart = false) => {
   const jscadScript = `// test script ${id}
-import { arc, ellipse, ellipsoid } from '@jscad/modeling'
+import { arc, ellipse, ellipsoid } from '@simplyprint/jscad-modeling'
 
 export const getParameterDefinitions = () => {
   return [

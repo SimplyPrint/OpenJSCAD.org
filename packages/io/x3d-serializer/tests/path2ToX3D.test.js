@@ -2,7 +2,7 @@ import test from 'ava'
 
 import { countOf } from '../../test/helpers/countOf.js'
 
-import { arc, colorize, path2 } from '@jscad/modeling'
+import { arc, colorize, path2 } from '@simplyprint/jscad-modeling'
 
 import { serialize } from '../src/index.js'
 

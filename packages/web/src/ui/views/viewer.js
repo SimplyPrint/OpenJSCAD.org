@@ -1,7 +1,7 @@
 const html = require('nanohtml')
 
 // viewer data
-const rendererStuff = require('@jscad/regl-renderer')
+const rendererStuff = require('@simplyprint/jscad-regl-renderer')
 
 const { pointerGestures } = require('../../most-gestures')
 const { prepareRender, drawCommands, cameras, entitiesFromSolids } = rendererStuff

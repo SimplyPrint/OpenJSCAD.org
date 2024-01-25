@@ -7,7 +7,7 @@
 // tags        : project, module, code, files, subfolder
 */
 
-const { cuboid } = require('@jscad/modeling').primitives
+const { cuboid } = require('@simplyprint/jscad-modeling').primitives
 
 const getParameterDefinitions = () => [
   { name: 'plate-group', type: 'group', initial: 'open', caption: 'Mounting Plate' },

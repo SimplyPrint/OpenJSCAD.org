@@ -8,8 +8,8 @@
  * @licence MIT License
  */
 
-const { sphere, geodesicSphere } = require('@jscad/modeling').primitives
-const { translate, scale } = require('@jscad/modeling').transforms
+const { sphere, geodesicSphere } = require('@simplyprint/jscad-modeling').primitives
+const { translate, scale } = require('@simplyprint/jscad-modeling').transforms
 
 const main = () => [
   translate([15, -25, 0], sphere({ radius: 10, segments: 12 })),

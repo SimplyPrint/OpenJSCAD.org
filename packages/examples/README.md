@@ -1,10 +1,10 @@
-# @jscad/examples
+# @simplyprint/jscad-examples
 
 This package contains all the examples for JSCAD, which can be used with various 'front end'
-packages like @jscad/cli , @jscad/web, @jscad/desktop
+packages like @simplyprint/jscad-cli , @simplyprint/jscad-web, @simplyprint/jscad-desktop
 
-[![NPM version](https://badge.fury.io/js/%40jscad%2Fexamples.svg)](https://www.npmjs.com/package/@jscad/examples)
-[![NPM downloads](https://img.shields.io/npm/dw/@jscad/examples)](https://www.npmjs.com/package/@jscad/examples)
+[![NPM version](https://badge.fury.io/js/%40jscad%2Fexamples.svg)](https://www.npmjs.com/package/@simplyprint/jscad-examples)
+[![NPM downloads](https://img.shields.io/npm/dw/@simplyprint/jscad-examples)](https://www.npmjs.com/package/@simplyprint/jscad-examples)
 [![Build Status](https://travis-ci.org/jscad/OpenJSCAD.org.svg?branch=master)](https://travis-ci.org/jscad/OpenJSCAD.org)
 [![Stability](https://img.shields.io/badge/stability-stable-success)](https://github.com/emersion/stability-badges#stable)
 [![License](https://img.shields.io/github/license/jscad/OpenJSCAD.org)](https://github.com/jscad/OpenJSCAD.org/blob/master/LICENSE)

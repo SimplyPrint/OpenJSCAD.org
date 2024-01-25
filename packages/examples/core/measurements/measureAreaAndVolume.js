@@ -8,11 +8,11 @@
  * @licence MIT License
  */
 
-const { circle, sphere, cube, square, star } = require('@jscad/modeling').primitives
-const { translate, scale } = require('@jscad/modeling').transforms
-const { measureArea, measureVolume } = require('@jscad/modeling').measurements
-const { vectorText } = require('@jscad/modeling').text
-const { path2 } = require('@jscad/modeling').geometries
+const { circle, sphere, cube, square, star } = require('@simplyprint/jscad-modeling').primitives
+const { translate, scale } = require('@simplyprint/jscad-modeling').transforms
+const { measureArea, measureVolume } = require('@simplyprint/jscad-modeling').measurements
+const { vectorText } = require('@simplyprint/jscad-modeling').text
+const { path2 } = require('@simplyprint/jscad-modeling').geometries
 
 const getParameterDefinitions = () => [
   { name: 'shape', type: 'choice', caption: 'Shape:', values: ['circle', 'square', 'star', 'sphere', 'cube'], initial: 'circle' },

@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [3.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.10.0...@jscad/modeling@3.0.0-alpha.0) (2023-10-09)
+# [3.0.0-alpha.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.10.0...@simplyprint/jscad-modeling@3.0.0-alpha.0) (2023-10-09)
 
 ### Bug Fixes
 
@@ -29,7 +29,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** reworked exports to expose a flattened API ([8235238](https://github.com/jscad/OpenJSCAD.org/commit/8235238ad63d063f1e501478cae1208deb130a9c))
 * **modeling:** reworked vectorChar and vectorText to return segments as path2 objects ([d388fab](https://github.com/jscad/OpenJSCAD.org/commit/d388fab1c6341265f01db2b24360186de07f5c58))
 
-# [2.12.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.11.1...@jscad/modeling@2.12.0) (2023-06-27)
+# [2.12.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.11.1...@simplyprint/jscad-modeling@2.12.0) (2023-06-27)
 
 ### Bug Fixes
 
@@ -43,7 +43,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** performance improvements for retessellate as part of booleans ([12157ac](https://github.com/jscad/OpenJSCAD.org/commit/12157ac886b714214223074d2f0a413c99da0a29))
 
-## [2.11.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.11.0...@jscad/modeling@2.11.1) (2023-04-30)
+## [2.11.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.11.0...@simplyprint/jscad-modeling@2.11.1) (2023-04-30)
 
 ### Bug Fixes
 
@@ -51,7 +51,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** export retessellate from modifiers ([fe40aea](https://github.com/jscad/OpenJSCAD.org/commit/fe40aea35af8cde2934e9fea614a6384b1c291c6))
 * **modeling:** fix line2.closestPoint ([4419fe5](https://github.com/jscad/OpenJSCAD.org/commit/4419fe5a9b08f368fb0df91bd20acc3dc3ca7af7))
 
-# [2.11.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.10.0...@jscad/modeling@2.11.0) (2022-11-26)
+# [2.11.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.10.0...@simplyprint/jscad-modeling@2.11.0) (2022-11-26)
 
 ### Bug Fixes
 
@@ -61,7 +61,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** added extrudeHelical ([#1164](https://github.com/jscad/OpenJSCAD.org/issues/1164)) ([a202bc9](https://github.com/jscad/OpenJSCAD.org/commit/a202bc94e4e79ac1d1034dc0d9d1854ff19de84d))
 
-# [2.10.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.9.6...@jscad/modeling@2.10.0) (2022-08-21)
+# [2.10.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.9.6...@simplyprint/jscad-modeling@2.10.0) (2022-08-21)
 
 ### Bug Fixes
 
@@ -72,7 +72,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** added TAU constant to maths, and refactored code and documentation ([#1128](https://github.com/jscad/OpenJSCAD.org/issues/1128)) ([b8dd700](https://github.com/jscad/OpenJSCAD.org/commit/b8dd700d5641ec27b842dfdf4b6f9403a64084aa))
 
-## [2.9.6](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.9.5...@jscad/modeling@2.9.6) (2022-07-17)
+## [2.9.6](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.9.5...@simplyprint/jscad-modeling@2.9.6) (2022-07-17)
 
 ### Bug Fixes
 
@@ -82,7 +82,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** convert {} objects to Map in insertTjunctions ([#1109](https://github.com/jscad/OpenJSCAD.org/issues/1109)) ([03c7fd1](https://github.com/jscad/OpenJSCAD.org/commit/03c7fd12af53ca025e32d481989563717b8d2137))
 
-## [2.9.5](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.9.4...@jscad/modeling@2.9.5) (2022-06-12)
+## [2.9.5](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.9.4...@simplyprint/jscad-modeling@2.9.5) (2022-06-12)
 
 ### Bug Fixes
 
@@ -93,7 +93,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** optimize poly3.measureBoundingSphere and cache results for performance ([6ad02d5](https://github.com/jscad/OpenJSCAD.org/commit/6ad02d5514ac130b8867d51a090f5745115a278d))
 * **modeling:** replace Math.hypot with faster Math.sqrt()([#1099](https://github.com/jscad/OpenJSCAD.org/issues/1099)) ([1f71c5b](https://github.com/jscad/OpenJSCAD.org/commit/1f71c5b88d4132333458242d3461a91c5e637f88))
 
-## [2.9.4](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.9.3...@jscad/modeling@2.9.4) (2022-05-15)
+## [2.9.4](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.9.3...@simplyprint/jscad-modeling@2.9.4) (2022-05-15)
 
 ### Performance Improvements
 
@@ -101,7 +101,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** improved performance of reTesselateCoplanarPolygons by using maps or sets ([#1085](https://github.com/jscad/OpenJSCAD.org/issues/1085)) ([fc57103](https://github.com/jscad/OpenJSCAD.org/commit/fc57103f3183781dd3cf97600e9a33386da9a514))
 * **modeling:** use Map instead of {} for slice.repair ([#1083](https://github.com/jscad/OpenJSCAD.org/issues/1083)) ([05d2984](https://github.com/jscad/OpenJSCAD.org/commit/05d29849404193f2e4ed6e945a058aec2b124e3d))
 
-## [2.9.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.9.2...@jscad/modeling@2.9.3) (2022-04-24)
+## [2.9.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.9.2...@simplyprint/jscad-modeling@2.9.3) (2022-04-24)
 
 ### Bug Fixes
 
@@ -115,11 +115,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** faster geom2.toOutlines ([#1064](https://github.com/jscad/OpenJSCAD.org/issues/1064)) ([5cb2f65](https://github.com/jscad/OpenJSCAD.org/commit/5cb2f652fa099593e6ec133fe879ecf8a09705e9))
 * **modeling:** performance improvements to mergePolygons and triangulatePolygons ([647ffdf](https://github.com/jscad/OpenJSCAD.org/commit/647ffdf2a726a1daa270717eadde2690b38aebda))
 
-## [2.9.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.9.1...@jscad/modeling@2.9.2) (2022-04-03)
+## [2.9.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.9.1...@simplyprint/jscad-modeling@2.9.2) (2022-04-03)
 
-**Note:** Version bump only for package @jscad/modeling
+**Note:** Version bump only for package @simplyprint/jscad-modeling
 
-## [2.9.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.9.0...@jscad/modeling@2.9.1) (2022-04-03)
+## [2.9.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.9.0...@simplyprint/jscad-modeling@2.9.1) (2022-04-03)
 
 ### Bug Fixes
 
@@ -128,13 +128,13 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** fixed areAllShapesTheSameType and add a test ([#1034](https://github.com/jscad/OpenJSCAD.org/issues/1034)) ([c92e9be](https://github.com/jscad/OpenJSCAD.org/commit/c92e9be0fe8696a992e2151a981fc34609c47e7d))
 * **modeling:** fixed cylinder construction, enhanced to support zero radius ([#1039](https://github.com/jscad/OpenJSCAD.org/issues/1039)) ([93f103d](https://github.com/jscad/OpenJSCAD.org/commit/93f103d0aec53618966bffa7fedc355547a6008c))
 
-# [2.9.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.8.0...@jscad/modeling@2.9.0) (2022-03-13)
+# [2.9.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.8.0...@simplyprint/jscad-modeling@2.9.0) (2022-03-13)
 
 ### Features
 
 * **modeling:** added earcut triangulation algorithm for extrusion caps ([#1021](https://github.com/jscad/OpenJSCAD.org/issues/1021)) ([c7f8ddf](https://github.com/jscad/OpenJSCAD.org/commit/c7f8ddfb34d3ff6a0c8d2c129f2b150c23987f59))
 
-# [2.8.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.7.2...@jscad/modeling@2.8.0) (2022-03-06)
+# [2.8.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.7.2...@simplyprint/jscad-modeling@2.8.0) (2022-03-06)
 
 ### Bug Fixes
 
@@ -150,20 +150,20 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** improved performance of expanding geom3, and bug fix ([#1008](https://github.com/jscad/OpenJSCAD.org/issues/1008)) ([d0d035a](https://github.com/jscad/OpenJSCAD.org/commit/d0d035a5d94eaff8de7360fe96e60cc496231eef))
 * **modeling:** use Set to create unique points in hullPath2 ([#1007](https://github.com/jscad/OpenJSCAD.org/issues/1007)) ([bd75a98](https://github.com/jscad/OpenJSCAD.org/commit/bd75a9870d614796a64a25fb874b5e77ad359e6f))
 
-## [2.7.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.7.1...@jscad/modeling@2.7.2) (2022-02-19)
+## [2.7.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.7.1...@simplyprint/jscad-modeling@2.7.2) (2022-02-19)
 
 ### Performance Improvements
 
 * **modeling:** changed geom2.toOutlines to use a map when creating unique edges ([#997](https://github.com/jscad/OpenJSCAD.org/issues/997)) ([338065f](https://github.com/jscad/OpenJSCAD.org/commit/338065fa37041a41e66cbe648ba2080239f3db97))
 * **modeling:** Use hypot instead of sqrt when possible ([#996](https://github.com/jscad/OpenJSCAD.org/issues/996)) ([113c636](https://github.com/jscad/OpenJSCAD.org/commit/113c636b1ac33e351c97789eb6ce0a546365141e))
 
-## [2.7.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.7.0...@jscad/modeling@2.7.1) (2021-12-26)
+## [2.7.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.7.0...@simplyprint/jscad-modeling@2.7.1) (2021-12-26)
 
 ### Bug Fixes
 
 * **modeling:** revert measureBoundingBox to only cache per geometry ([#967](https://github.com/jscad/OpenJSCAD.org/issues/967)) ([b18c02c](https://github.com/jscad/OpenJSCAD.org/commit/b18c02c333b225981a9093caf0593795bc0861ad))
 
-# [2.7.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.6.1...@jscad/modeling@2.7.0) (2021-12-11)
+# [2.7.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.6.1...@simplyprint/jscad-modeling@2.7.0) (2021-12-11)
 
 ### Bug Fixes
 
@@ -177,14 +177,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** improved measureBoundingBox by eliminating allocations ([8abe361](https://github.com/jscad/OpenJSCAD.org/commit/8abe361fc0249ec10e438382353b316aec4644a4))
 
-## [2.6.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.6.0...@jscad/modeling@2.6.1) (2021-11-07)
+## [2.6.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.6.0...@simplyprint/jscad-modeling@2.6.1) (2021-11-07)
 
 ### Bug Fixes
 
 * **modeling:** corrected measureBoundingBox for mirrored shapes ([#946](https://github.com/jscad/OpenJSCAD.org/issues/946)) ([ab2d505](https://github.com/jscad/OpenJSCAD.org/commit/ab2d50595129167a85f330adf286eaa56ae45de5))
 * **modeling:** handle negative area polygons in snapPolygons ([#941](https://github.com/jscad/OpenJSCAD.org/issues/941)) ([971343a](https://github.com/jscad/OpenJSCAD.org/commit/971343ac8ef90701a8dd54a1889f8932bebab5da))
 
-# [2.6.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.5.3...@jscad/modeling@2.6.0) (2021-10-17)
+# [2.6.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.5.3...@simplyprint/jscad-modeling@2.6.0) (2021-10-17)
 
 ### Features
 
@@ -192,33 +192,33 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** change geometry transforms to preserve user attributes ([#927](https://github.com/jscad/OpenJSCAD.org/issues/927)) ([a581a02](https://github.com/jscad/OpenJSCAD.org/commit/a581a02afb18a12954ffda806f4d0f04c99fb9ef))
 * **modeling:** Performance improvement for measure bounding box ([#869](https://github.com/jscad/OpenJSCAD.org/issues/869)) ([ee1c7b1](https://github.com/jscad/OpenJSCAD.org/commit/ee1c7b198a6e7a949b3c5d96d11f6537d39629fd))
 
-## [2.5.3](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.5.2...@jscad/modeling@2.5.3) (2021-10-04)
+## [2.5.3](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.5.2...@simplyprint/jscad-modeling@2.5.3) (2021-10-04)
 
 ### Bug Fixes
 
 * **modeling:** corrected vec2.rotate, and enhanced test cases ([#918](https://github.com/jscad/OpenJSCAD.org/issues/918)) ([e2bea2d](https://github.com/jscad/OpenJSCAD.org/commit/e2bea2d033462a70eac15bb2b7d4f8674216a7bf))
 
-## [2.5.2](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.5.1...@jscad/modeling@2.5.2) (2021-09-27)
+## [2.5.2](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.5.1...@simplyprint/jscad-modeling@2.5.2) (2021-09-27)
 
 ### Bug Fixes
 
 * **modeling:** added exit condition to Node to prevent infinite loops in boolean ops ([#898](https://github.com/jscad/OpenJSCAD.org/issues/898)) ([bf4d6d4](https://github.com/jscad/OpenJSCAD.org/commit/bf4d6d48900aa7e35d00c12cd8d2f15051424956))
 * **modeling:** corrected concat to ignore duplicate points ([#913](https://github.com/jscad/OpenJSCAD.org/issues/913))corrected appendArc to maintain last point ([3eea3ef](https://github.com/jscad/OpenJSCAD.org/commit/3eea3efed3b3d4bacb49c1ee4691bfc159b08261))
 
-## [2.5.1](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.5.0...@jscad/modeling@2.5.1) (2021-09-09)
+## [2.5.1](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.5.0...@simplyprint/jscad-modeling@2.5.1) (2021-09-09)
 
 ### Bug Fixes
 
 * **modeling:** corrected CCW determination in 2D hulls ([#897](https://github.com/jscad/OpenJSCAD.org/issues/897)) ([23fe2ac](https://github.com/jscad/OpenJSCAD.org/commit/23fe2ac98fb62ebf6a9bf5a3055e644ffb0e432f)), closes [#114](https://github.com/jscad/OpenJSCAD.org/issues/114)
 * **web:** added open issues and discord community to help ([4ea1196](https://github.com/jscad/OpenJSCAD.org/commit/4ea11966af4b3ecbb5c1a3d53b7ac90c4cd349b1))
 
-# [2.5.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.4.0...@jscad/modeling@2.5.0) (2021-06-20)
+# [2.5.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.4.0...@simplyprint/jscad-modeling@2.5.0) (2021-06-20)
 
 ### Features
 
 * **modeling:** added mat4.isIdentity() ([c22b7cc](https://github.com/jscad/OpenJSCAD.org/commit/c22b7ccfb64f2769381162f0d442ea0ecff5e8d1))
 
-# [2.4.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.3.0...@jscad/modeling@2.4.0) (2021-06-11)
+# [2.4.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.3.0...@simplyprint/jscad-modeling@2.4.0) (2021-06-11)
 
 ### Bug Fixes
 
@@ -229,7 +229,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** added mat4.invert ([#860](https://github.com/jscad/OpenJSCAD.org/issues/860)) ([3eedab3](https://github.com/jscad/OpenJSCAD.org/commit/3eedab3ba1f8a8f3e909eeeb74dca230af8ac435))
 
-# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.2.0...@jscad/modeling@2.3.0) (2021-06-01)
+# [2.3.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.2.0...@simplyprint/jscad-modeling@2.3.0) (2021-06-01)
 
 ### Bug Fixes
 
@@ -246,7 +246,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** new scission() function added to booleans ([#846](https://github.com/jscad/OpenJSCAD.org/issues/846)) ([b8b3bae](https://github.com/jscad/OpenJSCAD.org/commit/b8b3bae0f45301a8c4b80a757331f89e962f86fc))
 * **modeling:** rework math objects to conform with gl-matrix ([#804](https://github.com/jscad/OpenJSCAD.org/issues/804)) ([2e52f10](https://github.com/jscad/OpenJSCAD.org/commit/2e52f104e569f2bb7dd9e1be3d238f471f4d3dfa))
 
-# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.0...@jscad/modeling@2.2.0) (2021-04-20)
+# [2.2.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.0...@simplyprint/jscad-modeling@2.2.0) (2021-04-20)
 
 ### Bug Fixes
 
@@ -271,7 +271,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** V2 : rename option to align and center ([#775](https://github.com/jscad/OpenJSCAD.org/issues/775)) ([c5b0f48](https://github.com/jscad/OpenJSCAD.org/commit/c5b0f48bbd980b59876d73b673a0e3bef44d2b30))
 * **modeling:** V2 fix extrusions ([#761](https://github.com/jscad/OpenJSCAD.org/issues/761)) ([466910e](https://github.com/jscad/OpenJSCAD.org/commit/466910e7c1a3398065ba2895871c42f35877834a))
 
-# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.0...@jscad/modeling@2.1.0) (2021-04-15)
+# [2.1.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.0...@simplyprint/jscad-modeling@2.1.0) (2021-04-15)
 
 ### Bug Fixes
 
@@ -296,11 +296,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * **modeling:** V2 : rename option to align and center ([#775](https://github.com/jscad/OpenJSCAD.org/issues/775)) ([c5b0f48](https://github.com/jscad/OpenJSCAD.org/commit/c5b0f48bbd980b59876d73b673a0e3bef44d2b30))
 * **modeling:** V2 fix extrusions ([#761](https://github.com/jscad/OpenJSCAD.org/issues/761)) ([466910e](https://github.com/jscad/OpenJSCAD.org/commit/466910e7c1a3398065ba2895871c42f35877834a))
 
-# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.11...@jscad/modeling@2.0.0) (2021-04-12)
+# [2.0.0](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.11...@simplyprint/jscad-modeling@2.0.0) (2021-04-12)
 
-**Note:** Version bump only for package @jscad/modeling
+**Note:** Version bump only for package @simplyprint/jscad-modeling
 
-# [2.0.0-alpha.11](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.10...@jscad/modeling@2.0.0-alpha.11) (2021-03-07)
+# [2.0.0-alpha.11](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.10...@simplyprint/jscad-modeling@2.0.0-alpha.11) (2021-03-07)
 
 ### Bug Fixes
 
@@ -310,56 +310,56 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **modeling:** V2 : rename option to align and center ([#775](https://github.com/jscad/OpenJSCAD.org/issues/775)) ([c5b0f48](https://github.com/jscad/OpenJSCAD.org/commit/c5b0f48bbd980b59876d73b673a0e3bef44d2b30))
 
-# [2.0.0-alpha.10](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.9...@jscad/modeling@2.0.0-alpha.10) (2021-02-07)
+# [2.0.0-alpha.10](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.9...@simplyprint/jscad-modeling@2.0.0-alpha.10) (2021-02-07)
 
 ### Features
 
 * **modeling:** adding new class of operations to modeling; modifiers ([#743](https://github.com/jscad/OpenJSCAD.org/issues/743)) ([9e20303](https://github.com/jscad/OpenJSCAD.org/commit/9e20303255fb10bf11251dbefffa6b8c1dad9b49))
 * **modeling:** enhanced options to extrudeFromSlices ([#761](https://github.com/jscad/OpenJSCAD.org/issues/761)) ([466910e](https://github.com/jscad/OpenJSCAD.org/commit/466910e7c1a3398065ba2895871c42f35877834a))
 
-# [2.0.0-alpha.9](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.8...@jscad/modeling@2.0.0-alpha.9) (2021-01-02)
+# [2.0.0-alpha.9](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.8...@simplyprint/jscad-modeling@2.0.0-alpha.9) (2021-01-02)
 
 ### Bug Fixes
 
 * **core,modeling:** V2 fix extrude ([#751](https://github.com/jscad/OpenJSCAD.org/issues/751)) ([767b6fc](https://github.com/jscad/OpenJSCAD.org/commit/767b6fc13a24b6203248c197210645e5b7cebc28))
 * **modeling:** re-implemented poly2.isPointInside to correct issues ([#741](https://github.com/jscad/OpenJSCAD.org/issues/741)) ([4266c8f](https://github.com/jscad/OpenJSCAD.org/commit/4266c8f623f3de9f8c8a5999647e654c8d5aaf31))
 
-# [2.0.0-alpha.8](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.7...@jscad/modeling@2.0.0-alpha.8) (2020-12-04)
+# [2.0.0-alpha.8](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.7...@simplyprint/jscad-modeling@2.0.0-alpha.8) (2020-12-04)
 
-**Note:** Version bump only for package @jscad/modeling
+**Note:** Version bump only for package @simplyprint/jscad-modeling
 
-# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@jscad/modeling@2.0.0-alpha.6...@jscad/modeling@2.0.0-alpha.7) (2020-11-07)
+# [2.0.0-alpha.7](https://github.com/jscad/OpenJSCAD.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.6...@simplyprint/jscad-modeling@2.0.0-alpha.7) (2020-11-07)
 
 ### Bug Fixes
 
 * **modeling:** fix extrude rotate ([#727](https://github.com/jscad/OpenJSCAD.org/issues/727)) ([13de037](https://github.com/jscad/OpenJSCAD.org/commit/13de03788336ac5c2e00818fadd631bc8aadc523))
 
-# [2.0.0-alpha.6](https://github.com/jscad/openjscad.org/compare/@jscad/modeling@2.0.0-alpha.5...@jscad/modeling@2.0.0-alpha.6) (2020-10-11)
+# [2.0.0-alpha.6](https://github.com/jscad/openjscad.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.5...@simplyprint/jscad-modeling@2.0.0-alpha.6) (2020-10-11)
 
 ### Bug Fixes
 
 * **all:** V2 : several fixes for modeling ([#705](https://github.com/jscad/openjscad.org/issues/705)) ([62017a4](https://github.com/jscad/openjscad.org/commit/62017a41214169d6e000f1e0c11aaefdd68e1097))
 * **core:** Remove connectors from public api ([#703](https://github.com/jscad/openjscad.org/issues/703)) ([a3bf8a4](https://github.com/jscad/openjscad.org/commit/a3bf8a42e7ccf2204351da4a4acff55c2d6acad6))
 
-# [2.0.0-alpha.5](https://github.com/jscad/openjscad.org/compare/@jscad/modeling@2.0.0-alpha.4...@jscad/modeling@2.0.0-alpha.5) (2020-09-29)
+# [2.0.0-alpha.5](https://github.com/jscad/openjscad.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.4...@simplyprint/jscad-modeling@2.0.0-alpha.5) (2020-09-29)
 
 ### Bug Fixes
 
 * **modeling:** V2 - primitives revisited ([#697](https://github.com/jscad/openjscad.org/issues/697)) ([4721484](https://github.com/jscad/openjscad.org/commit/47214847b9ea1a144bd0ec595318979199c47dea))
 
-# [2.0.0-alpha.4](https://github.com/jscad/openjscad.org/compare/@jscad/modeling@2.0.0-alpha.3...@jscad/modeling@2.0.0-alpha.4) (2020-09-28)
+# [2.0.0-alpha.4](https://github.com/jscad/openjscad.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.3...@simplyprint/jscad-modeling@2.0.0-alpha.4) (2020-09-28)
 
 ### Features
 
 * **modeling:** added aggregate functions for area, volume, epsilon measurements ([cf558bb](https://github.com/jscad/openjscad.org/commit/cf558bb7d0df1ab4562fda022a8db2c4216d7514))
 
-# [2.0.0-alpha.3](https://github.com/jscad/openjscad.org/compare/@jscad/modeling@2.0.0-alpha.2...@jscad/modeling@2.0.0-alpha.3) (2020-09-19)
+# [2.0.0-alpha.3](https://github.com/jscad/openjscad.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.2...@simplyprint/jscad-modeling@2.0.0-alpha.3) (2020-09-19)
 
 ### Features
 
 * **modeling:** add align() and measureAggregateBoundingBox() functions ([72df65c](https://github.com/jscad/openjscad.org/commit/72df65cfec065f26a84a8bb1ff80f5750a9972bf))
 
-# [2.0.0-alpha.2](https://github.com/jscad/openjscad.org/compare/@jscad/modeling@2.0.0-alpha.1...@jscad/modeling@2.0.0-alpha.2) (2020-09-08)
+# [2.0.0-alpha.2](https://github.com/jscad/openjscad.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.1...@simplyprint/jscad-modeling@2.0.0-alpha.2) (2020-09-08)
 
 ### Bug Fixes
 
@@ -370,7 +370,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 * **examples:** examples overhaul for V2 JSCAD ([d73e06f](https://github.com/jscad/openjscad.org/commit/d73e06f51e187e673487c3d9599672e66ac441d7))
 
-# [2.0.0-alpha.1](https://github.com/jscad/openjscad.org/compare/@jscad/modeling@2.0.0-alpha.0...@jscad/modeling@2.0.0-alpha.1) (2020-08-19)
+# [2.0.0-alpha.1](https://github.com/jscad/openjscad.org/compare/@simplyprint/jscad-modeling@2.0.0-alpha.0...@simplyprint/jscad-modeling@2.0.0-alpha.1) (2020-08-19)
 
 ### Bug Fixes
 

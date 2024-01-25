@@ -1,4 +1,4 @@
-import { flatten } from '@jscad/array-utils'
+import { flatten } from '@simplyprint/jscad-array-utils'
 
 import { serializers } from './serializers.js'
 

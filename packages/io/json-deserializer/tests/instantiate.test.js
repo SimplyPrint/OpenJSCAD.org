@@ -1,6 +1,6 @@
 import test from 'ava'
 
-import { geom2, geom3, path2 } from '@jscad/modeling'
+import { geom2, geom3, path2 } from '@simplyprint/jscad-modeling'
 
 import { deserialize } from '../src/index.js'
 

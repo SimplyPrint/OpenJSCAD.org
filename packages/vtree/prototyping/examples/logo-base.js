@@ -1,5 +1,5 @@
-const { cube, sphere } = require('@jscad/csg/api').primitives3d
-const { union, difference, intersection } = require('@jscad/csg/api').booleanOps
+const { cube, sphere } = require('@simplyprint/jscad-csg/api').primitives3d
+const { union, difference, intersection } = require('@simplyprint/jscad-csg/api').booleanOps
 
 const main = () => union(
   difference(

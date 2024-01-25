@@ -4,7 +4,7 @@
  * In all cases, the function returns the results, and never changes the original shapes.
  * @module modeling/hulls
  * @example
- * import { hull, hullChain } from '@jscad/modeling'
+ * import { hull, hullChain } from '@simplyprint/jscad-modeling'
  */
 export { hull } from './hull.js'
 export { hullChain } from './hullChain.js'

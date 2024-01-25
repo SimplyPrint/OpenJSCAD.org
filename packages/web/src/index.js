@@ -1,6 +1,6 @@
 const html = require('nanohtml')
 
-const { evaluation } = require('@jscad/core')
+const { evaluation } = require('@simplyprint/jscad-core')
 
 const callbackToObservable = require('./most-utils/callbackToObservable')
 

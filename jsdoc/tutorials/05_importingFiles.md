@@ -1,7 +1,7 @@
 Importing files in JSCAD is a simple case of loading them using the same import statement used to load javascript modules.  The files you load need to be part of a multifile project, so that JSCAD can access them:
 
 ```javascript
-import * as jscad from '@jscad/modeling'
+import * as jscad from '@simplyprint/jscad-modeling'
 
 const { translate, scale, rotateZ } = jscad.transforms
 const { union } = jscad.booleans
