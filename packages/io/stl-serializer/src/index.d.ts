@@ -1,6 +1,6 @@
 export interface SerializerOptions {
     binary?: boolean = true;
-    statusCallback?: (progress: number) => void;
+    statusCallback?: (progress: { progress: number }) => void;
 }
 
 export const mimeType: string = 'model/stl';
